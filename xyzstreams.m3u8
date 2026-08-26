@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-25T21:17:08.691Z
-# Channels: 52 | Homepage Events: 0 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-26T00:31:16.728Z
+# Channels: 52 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -448,3 +448,24 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://player.xyzstreams.st/embed/lakers
+
+#-----------------------------------------
+# LIVE EVENTS (Homepage)
+#-----------------------------------------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvbWAARBtEi9FfUxIoGe5ZtHcCF13HvYCzvWt6735Rw&s=10" tvg-start="2026-08-25T23:00:00.000Z" tvg-stop="2026-08-26T02:30:00.000Z" group-title="MMA",Dana White's Contender Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/ufc.html
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/monterrey.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/chicago-fire.png&logo3=https://images.mlssoccer.com/image/upload/v1680232383/assets/lc/logos/Leagues_Cup-Cup-Logo-480x480_ytky7i&color1=1C3E7C&color2=FF0000&q=65&w=100" tvg-start="2026-08-26T00:30:00.000Z" tvg-stop="2026-08-26T02:30:00.000Z" group-title="Football",Monterrey vs Chicago Fire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://volder.timst.cfd/main/secure/98b11d29af4420daea9431872f745735cecefbed9292908e54539db07f4c2099/1787707886/mls-1-xyz.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/leon.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo3=https://images.mlssoccer.com/image/upload/v1680232383/assets/lc/logos/Leagues_Cup-Cup-Logo-480x480_ytky7i&color1=006633&color2=B30838&q=65&w=100" tvg-start="2026-08-26T02:30:00.000Z" tvg-stop="2026-08-26T04:30:00.000Z" group-title="Football",León vs Real Salt Lake
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://volder.timst.cfd/main/secure/9e9c2b20eb155e5b273425c2c55553bc215d36c15e6bc52015e563e2a3217f38/1787707886/mls-2-xyz.m3u8

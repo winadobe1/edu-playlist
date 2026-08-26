@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tvserieampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",TV SERIE A (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5fc2f3976de5d458ec3ad07b43baae1:ba78b34d67b5aa475ae878e30c0235dd
-https://dca-de-livedazn.daznedge.net/me1ex8du5avh1d2txguuxnucx/web/stream.mpd?channel=7003&outlet=dazn-italy&plang=it&dazn-token=tend%3A1787765277~proto%3Adash~geo%3AIT~asn%3A13335~path%3A1_1_f28a0e6054895112a991d90c88d2cd9dbeb0b69ff84f1e5d84e9db5aae07ab3a~ua%3A2ce1fd67485cfe92adf700d716e9f29f~id%3Aa35d00ec9e23~tk3%3A09177c206788e1b1a77bb12ca5c882a25996a266c0e18cd08773064757dd742c
-
-#EXTINF:-1 tvg-id="tvseriecmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",TV SERIE C (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5fc2f3976de5d458ec3ad07b43baae1:ba78b34d67b5aa475ae878e30c0235dd
-https://dca-de-livedazn.daznedge.net/tend%3A1787765277~proto%3Adash~geo%3AIT~asn%3A13335~path%3A1_1_f28a0e6054895112a991d90c88d2cd9dbeb0b69ff84f1e5d84e9db5aae07ab3a~ua%3A2ce1fd67485cfe92adf700d716e9f29f~id%3Aa35d00ec9e23~tk3%3A09177c206788e1b1a77bb12ca5c882a25996a266c0e18cd08773064757dd742c/me1ex8du5avh1d2txguuxnucx/web/stream.mpd?channel=7003&outlet=dazn-italy&plang=it
-
 #EXTINF:-1 tvg-id="ch06engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 06  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
