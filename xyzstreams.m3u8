@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T00:52:25.555Z
-# Channels: 52 | Homepage Events: 5 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T04:10:57.380Z
+# Channels: 52 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -452,74 +452,50 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/sem7z91787034757.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Celje vs Slovan Bratislava
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=8A2BE2&color2=D91A21&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Celta de Vigo vs Osasuna (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/1dd747d9d464ecd1d65cda2f09ae496cf19b1b6525c2cf906b31d172896bf209/1787795547/xyzucl-dazn1.m3u8
+https://volder.timst.cfd/main/secure/ebf84d50b80902b9f0dee7963b3107ebb224d3a1f52608ee0240eb88e0adfd22/1787807459/espnp1-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/bydetl1787034759.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",AEK Athens vs Levski Sofia (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=8A2BE2&color2=D91A21&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Celta de Vigo vs Osasuna (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/564507baa21497ed4b52d4878351986a3dbf895d3c71c3cd82aefc7646d054a5/1787795547/xyzucl-tnt4.m3u8
+https://volder.timst.cfd/main/secure/82dd77e6de5ae02ae94f1362354eb56678cd92e0c63a5c91ffb123070f35a019/1787807459/espnpes1-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/bydetl1787034759.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",AEK Athens vs Levski Sofia (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/luton-town.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=034694&color2=FF6600&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Chelsea vs Luton Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/fada3c3c32e09924b79976d51905be381b4960542fb94ef3e9b329f20192241d/1787795547/xyzucl-dazn2.m3u8
+https://volder.timst.cfd/main/secure/7d81c113a1d8d19fbef687eba73b8ce3f2b9f3457e0c2616f9e8e1268dd8e4b2/1787807459/efl-1-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/bydetl1787034759.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",AEK Athens vs Levski Sofia (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/3ddb98ae7fa48ef276b49dc69ef467ad1f3df09ba0d5e2a0caa735ff18da6068/1787795547/tudn-usa.m3u8
+https://volder.timst.cfd/main/secure/9e6a302bf8ed133915554c530554708aa52af09b65d509fa997eabb7e294744c/1787807459/espnp2-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9p4tku1787034758.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Olympique Lyonnais vs Fenerbahçe (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/f1746ac809288154d017562d9611cc58911ac67dafcbf81b09828bd48e34b74b/1787795547/xyzucl-tnt1.m3u8
+https://volder.timst.cfd/main/secure/88b4aa408fb57e2c784ee0f564e182635013028ae7abe027c10393215287e62f/1787807459/espnpes2-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9p4tku1787034758.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Olympique Lyonnais vs Fenerbahçe (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/c22c9021d39e5473e53843917d53732c3cb1fc750f375a2d6e82b6101ba2fd6e/1787795547/xyzucl-dazn3.m3u8
+https://volder.timst.cfd/main/secure/cfc0b72314ef4efd61d3e4ac1645e90c25b5eb55a2fd2c3e528fef8471d34f80/1787807459/ps2-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6hfzhd1787034760.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Viking vs Dinamo Zagreb (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e2c55614d5475eba0486280e999574c675da2d20af5b86b332b0975ed3497d04/1787795547/xyzucl-tnt2.m3u8
+https://volder.timst.cfd/main/secure/981f2165c118f70c69f3f22a423ad55c8a4e370d920dcace12bb3a049f49a58e/1787807459/daznlaliga-es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6hfzhd1787034760.jpg/medium" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Viking vs Dinamo Zagreb (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/afc-wimbledon.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=CC0000&color2=003366&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Fulham vs AFC Wimbledon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/4af0c2904f58b24fc13dfda1b58ef122d551b9ec0c6e6b3627d9d613fb0cc8cd/1787795547/xyzucl-dazn4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00529F&color2=006699&q=65&w=100" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Real Madrid vs Real Sociedad (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/96a2598d8a594f37c050c7632304c60bca7d492472280b5044f2ce8995b4463e/1787795547/espnp-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00529F&color2=006699&q=65&w=100" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Real Madrid vs Real Sociedad (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/aa3fc9f62375f8a1997e5115a2a324d62c9350639155fe018b695241ba9f3b35/1787795547/espnpes-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00529F&color2=006699&q=65&w=100" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Real Madrid vs Real Sociedad (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/669d7a3647a6cf11dbb5752c2b8fbc319f8bed95c522f2645bd744bbba106b9f/1787795547/ps1-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00529F&color2=006699&q=65&w=100" tvg-start="2026-08-26T19:00:00.000Z" tvg-stop="2026-08-26T21:00:00.000Z" group-title="Football",Real Madrid vs Real Sociedad (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/a38bbec78a10653921b7496f69a22dea84a7549842e700463eb7af3fcb895c17/1787795547/movistarplus-es.m3u8
+https://volder.timst.cfd/main/secure/13365abf3433be8aa7149618b7f40d711e1637e4399f75721b8378624fcbdc5b/1787807459/efl-2-xyz.m3u8
