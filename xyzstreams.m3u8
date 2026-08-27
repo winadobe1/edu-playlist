@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T14:21:28.379Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T22:21:25.616Z
 # Channels: 52 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -452,50 +452,26 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=8A2BE2&color2=D91A21&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Celta de Vigo vs Osasuna (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FFB612&color2=00338D&q=65&w=100" tvg-start="2026-08-27T23:00:00.000Z" tvg-stop="2026-08-28T01:00:00.000Z" group-title="American Football",Steelers vs Bills
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/c678c10d723326e90bc535f3ddd764addeb6beaa2f4868a313db8b4ed8f5bed6/1787844093/espnp1-xyz.m3u8
+https://xyzstreams.st/nfl-1.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=8A2BE2&color2=D91A21&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Celta de Vigo vs Osasuna (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ne.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002244&color2=311D00&q=65&w=100" tvg-start="2026-08-28T00:00:00.000Z" tvg-stop="2026-08-28T02:00:00.000Z" group-title="American Football",Patriots vs Browns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/f49169e8a6a829177e420bbd30be74cb9a4b562944fa07cd5e5d33fd84f86ed1/1787844093/espnpes1-xyz.m3u8
+https://xyzstreams.st/nfl-2.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/luton-town.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=034694&color2=FF6600&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Chelsea vs Luton Town
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=000000&q=65&w=100" tvg-start="2026-08-28T00:00:00.000Z" tvg-stop="2026-08-28T02:00:00.000Z" group-title="American Football",49ers vs Raiders
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e0937c999b63a11fd443edcbdeb9d3c67f705aa7a7f5eec1f241fab231731083/1787844094/efl-1-xyz.m3u8
+https://xyzstreams.st/nfl-3.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0080C6&q=65&w=100" tvg-start="2026-08-28T02:00:00.000Z" tvg-stop="2026-08-28T04:00:00.000Z" group-title="American Football",Rams vs Chargers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/bc226ea54a5b73fbca098c7a6f3e19a9f0b29fad5c16fc1383e74b08f64ca3cb/1787844095/espnp2-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/5f0a3764d6e37dad6933cb7754730034a28e5bcdc856050d222075c730c2822b/1787844095/espnpes2-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/7a8137052810aa629ba6508305b6efe379fc86404d5e85cd8d33b8f85da6393c/1787844095/ps2-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/fd57a78dd988105dcae75a662ddf3b85c4a93b61bd3507d47338c2591835925f/1787844095/daznlaliga-es.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/afc-wimbledon.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=CC0000&color2=003366&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Fulham vs AFC Wimbledon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/c6fef382663f25eddbb8eda7e42ef35c4d8ad30d1769d1585c12aa528ed82bab/1787844096/efl-2-xyz.m3u8
+https://xyzstreams.st/nfl-4.html
