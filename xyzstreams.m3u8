@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T09:58:29.650Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-27T14:21:28.379Z
 # Channels: 52 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -456,46 +456,46 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/72cbd26d74f605c0a247ac635311f769657b4bdd8df4619644d7f52b2ddd3a44/1787828315/espnp1-xyz.m3u8
+https://volder.timst.cfd/main/secure/c678c10d723326e90bc535f3ddd764addeb6beaa2f4868a313db8b4ed8f5bed6/1787844093/espnp1-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=8A2BE2&color2=D91A21&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Celta de Vigo vs Osasuna (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/77b45682e98b9ad078fe6696b8bb1fc69bbfbbdae9ae4483772f28d61bb84a30/1787828315/espnpes1-xyz.m3u8
+https://volder.timst.cfd/main/secure/f49169e8a6a829177e420bbd30be74cb9a4b562944fa07cd5e5d33fd84f86ed1/1787844093/espnpes1-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/luton-town.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=034694&color2=FF6600&q=65&w=100" tvg-start="2026-08-27T18:30:00.000Z" tvg-stop="2026-08-27T20:30:00.000Z" group-title="Football",Chelsea vs Luton Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/dc28c42e1f0d28f0a5ffd666f5a55745c418c130120ad9267dc981154d8a1f7a/1787828315/efl-1-xyz.m3u8
+https://volder.timst.cfd/main/secure/e0937c999b63a11fd443edcbdeb9d3c67f705aa7a7f5eec1f241fab231731083/1787844094/efl-1-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/a626be714d7704e441ac14fd80d5b8d4e35bbfea73d211c2eed55f1938749369/1787828315/espnp2-xyz.m3u8
+https://volder.timst.cfd/main/secure/bc226ea54a5b73fbca098c7a6f3e19a9f0b29fad5c16fc1383e74b08f64ca3cb/1787844095/espnp2-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/16d16dba6b07f8db927c0593833cd380212415d7550893abb4f8873cecd7fd5d/1787828315/espnpes2-xyz.m3u8
+https://volder.timst.cfd/main/secure/5f0a3764d6e37dad6933cb7754730034a28e5bcdc856050d222075c730c2822b/1787844095/espnpes2-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/18bfc61b6a35702a1174e313760a88eb7819dcca970153ad2166251b63623296/1787828315/ps2-xyz.m3u8
+https://volder.timst.cfd/main/secure/7a8137052810aa629ba6508305b6efe379fc86404d5e85cd8d33b8f85da6393c/1787844095/ps2-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=A50044&color2=EE2737&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Barcelona vs Athletic Club (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e214ab9fc8deee8d1853868c2161ed0483f93828a70530209087c68e499436d1/1787828315/daznlaliga-es.m3u8
+https://volder.timst.cfd/main/secure/fd57a78dd988105dcae75a662ddf3b85c4a93b61bd3507d47338c2591835925f/1787844095/daznlaliga-es.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/afc-wimbledon.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png&color1=CC0000&color2=003366&q=65&w=100" tvg-start="2026-08-27T19:00:00.000Z" tvg-stop="2026-08-27T21:00:00.000Z" group-title="Football",Fulham vs AFC Wimbledon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/be8bcc1e8c2b63d55a2f34def5d8019234245e990650c708bcca904401b8b42f/1787828316/efl-2-xyz.m3u8
+https://volder.timst.cfd/main/secure/c6fef382663f25eddbb8eda7e42ef35c4d8ad30d1769d1585c12aa528ed82bab/1787844096/efl-2-xyz.m3u8
