@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-29T16:48:11.275Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-29T18:36:30.853Z
 # Channels: 52 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -468,52 +468,52 @@ https://xyzstreams.st/nfl-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/836fd01ac5039c4f020b962cb84cbf1e67b0b2d0fa71d0dceb03f5281ab19fda/1788025696/nfl-mia-xyz.m3u8
+https://volder.timst.cfd/main/secure/e05ba276ab0072f29174f256296a36d488af33715e9bbb054216b885bb996ce2/1788032192/nfl-mia-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B162A&color2=4B92DB&q=65&w=100" tvg-start="2026-08-29T22:00:00.000Z" tvg-stop="2026-08-30T01:00:00.000Z" group-title="American Football",Bears vs Titans (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/298106d6170780295f567d09014fda908e335adeeb86d0474a72f81437f42749/1788025696/nfl-atl-xyz.m3u8
+https://volder.timst.cfd/main/secure/3622ff4e3858d7ce3ab499a4590b89e1aa953625665ef14555233bb8a7eca7fc/1788032192/nfl-atl-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=003399&q=65&w=100" tvg-start="2026-08-29T14:00:00.000Z" tvg-stop="2026-08-29T16:00:00.000Z" group-title="Football",AFC Bournemouth vs Everton (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/49fb517f4885231a9bae9e0349e0cbd4a97fdb1cbc1f471c1b75744e8dd02b71/1788025696/skynz8xyz.m3u8
+https://volder.timst.cfd/main/secure/7801e2d9ad5dcb7b098228a984c952f2088a4ab5a66203137868c8283bd7a8ac/1788032192/skynz8xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=003399&q=65&w=100" tvg-start="2026-08-29T14:00:00.000Z" tvg-stop="2026-08-29T16:00:00.000Z" group-title="Football",AFC Bournemouth vs Everton (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/d0a02aa7a860f6d63704c25f1e9893bd5084d17edfdc0d221903713bf3018f93/1788025696/hull-cityxyz.m3u8
+https://volder.timst.cfd/main/secure/3cbbdc00f2a67c27bf9a9103908058a3c40d8730f87754ef848c14b5328a79d8/1788032192/hull-cityxyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=F5A623&q=65&w=100" tvg-start="2026-08-29T14:00:00.000Z" tvg-stop="2026-08-29T16:00:00.000Z" group-title="Football",Coventry City vs Hull City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e64796a83a27ad0a78d497f2aef3b42bcd8e06325794c03aa1c54753c302603a/1788025696/usanetwork-usa.m3u8
+https://volder.timst.cfd/main/secure/17511073814a4858c9418f8db4619ffcd759f1b1538e6f54ea9a63e623efd75b/1788032192/usanetwork-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=241F20&q=65&w=100" tvg-start="2026-08-29T16:30:00.000Z" tvg-stop="2026-08-29T18:30:00.000Z" group-title="Football",Tottenham Hotspur vs Newcastle United (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/3b26928efe4aa05053fb26b79f313368c974d6842183cda704e241e88cd5c132/1788025696/skymain-xyz.m3u8
+https://volder.timst.cfd/main/secure/0df60c7e2388f7faa415f959334cb3cf9fe21ee9da6d39c5cc6d2ca4b63df3d2/1788032192/skymain-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=241F20&q=65&w=100" tvg-start="2026-08-29T16:30:00.000Z" tvg-stop="2026-08-29T18:30:00.000Z" group-title="Football",Tottenham Hotspur vs Newcastle United (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/cf694b3afb0e2d413a7177fa5641c8aafa2d979dde82429a364c1b6f54d79d6f/1788025696/skymainuhd-xyz.m3u8
+https://volder.timst.cfd/main/secure/f110f494a7d104b9a4e5064534567d70a0f060337cb3f3f4e76cd250c85b221a/1788032192/skymainuhd-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=241F20&q=65&w=100" tvg-start="2026-08-29T16:30:00.000Z" tvg-stop="2026-08-29T18:30:00.000Z" group-title="Football",Tottenham Hotspur vs Newcastle United (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e64796a83a27ad0a78d497f2aef3b42bcd8e06325794c03aa1c54753c302603a/1788025696/usanetwork-usa.m3u8
+https://volder.timst.cfd/main/secure/17511073814a4858c9418f8db4619ffcd759f1b1538e6f54ea9a63e623efd75b/1788032192/usanetwork-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=241F20&q=65&w=100" tvg-start="2026-08-29T16:30:00.000Z" tvg-stop="2026-08-29T18:30:00.000Z" group-title="Football",Tottenham Hotspur vs Newcastle United (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/a40b5b57b731ddbedf7d859cd6bd90aa1783123a7634f3c107a1847c51c62a1c/1788025696/universo.m3u8
+https://volder.timst.cfd/main/secure/5ef3f863868b5d13b28cfe02112f5f43915cc7ad8453ea9a3252bd56d5476429/1788032192/universo.m3u8
