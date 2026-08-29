@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-29T01:48:49.721Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-29T08:18:27.451Z
 # Channels: 52 | Homepage Events: 11 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -456,136 +456,136 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/2901ec9471c2d0bf5063a2ff697959ff95e7a1da3c8123e8633765383ea1c55d/1787971740/nfl-bal-xyz.m3u8
+https://volder.timst.cfd/main/secure/84513a62bd54c6ed9a49034e79d2e895004c5c049ff73d4b0eaddd92fe2a0c88/1787995109/nfl-bal-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=5A1414&color2=241773&q=65&w=100" tvg-start="2026-08-28T22:00:00.000Z" tvg-stop="2026-08-29T01:00:00.000Z" group-title="American Football",Commanders vs Ravens (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/dd6a532fa959e3df61cf5febd24633163f358bf9ad59b66be0abfccce59bf2fb/1787971741/nfl-was-xyz.m3u8
+https://volder.timst.cfd/main/secure/e0d36642307cc2bec2b85a03139b65e39c9c5024fc34c54efc9fcca05ff5e05c/1787995109/nfl-was-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=008E97&q=65&w=100" tvg-start="2026-08-28T23:00:00.000Z" tvg-stop="2026-08-29T02:00:00.000Z" group-title="American Football",Falcons vs Dolphins (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/b5ae6fc4a0f489fa424caa2fa6bade24abb8ceff0c76cbf01b05f5f51ced46d8/1787971741/nfl-mia-xyz.m3u8
+https://volder.timst.cfd/main/secure/2e52b175a910fa7954993235e27bb161d7c8326f9a13adeda0ac334c940cd09a/1787995109/nfl-mia-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=008E97&q=65&w=100" tvg-start="2026-08-28T23:00:00.000Z" tvg-stop="2026-08-29T02:00:00.000Z" group-title="American Football",Falcons vs Dolphins (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/637ab5c19cf3edb2f6271dbcf43a450a47d3cd2d9b9eda053d254fc2436e01d4/1787971741/nfl-atl-xyz.m3u8
+https://volder.timst.cfd/main/secure/200e19ab21e0a09c6ee853c978914dfd1d0935a5d724947ed7c9ebc99adfcae7/1787995110/nfl-atl-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=03202F&color2=0085CA&q=65&w=100" tvg-start="2026-08-28T23:00:00.000Z" tvg-stop="2026-08-29T02:00:00.000Z" group-title="American Football",Texans vs Panthers (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/55c7bc613a1445e10c10466494bfc6912e73273e493b1818f02ad3e0098d48a2/1787971741/nfl-car-xyz.m3u8
+https://volder.timst.cfd/main/secure/220a2c2e0a578d6b4160a1adddd975a5be8a0800cd2462cdc7c15b5434756a43/1787995110/nfl-car-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=03202F&color2=0085CA&q=65&w=100" tvg-start="2026-08-28T23:00:00.000Z" tvg-stop="2026-08-29T02:00:00.000Z" group-title="American Football",Texans vs Panthers (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/bba3b9e7487043745c426a72c07ebc4aa4ddb17a7bf178758539f971658c4df2/1787971742/nfl-hou-xyz.m3u8
+https://volder.timst.cfd/main/secure/618115225a2e6062d74667f4ff8ed41eba46c4b653d9f5dba38c8b7fa379aeec/1787995110/nfl-hou-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=125740&q=65&w=100" tvg-start="2026-08-28T23:30:00.000Z" tvg-stop="2026-08-29T02:30:00.000Z" group-title="American Football",Giants vs Jets (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/bcdb9220380ebe2393120401a52676cd873b61a6ff32c4985940cff5183f3061/1787971742/nfl-nyj-xyz.m3u8
+https://volder.timst.cfd/main/secure/c30bb0f17e88f9be668a8afbd097ffc6ee8a727916b9f0726c43503b8f6df0b0/1787995110/nfl-nyj-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=125740&q=65&w=100" tvg-start="2026-08-28T23:30:00.000Z" tvg-stop="2026-08-29T02:30:00.000Z" group-title="American Football",Giants vs Jets (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/442a35492778ae6c06cae9586756cb0e43a120269b1dd28ff8d834840bdae367/1787971742/nfl-nyg-xyz.m3u8
+https://volder.timst.cfd/main/secure/59f7ba441104b04cbb7b353cb28eaa08fe83abb68c254753316b859033d63c7b/1787995110/nfl-nyg-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D50A0A&color2=006778&q=65&w=100" tvg-start="2026-08-28T23:30:00.000Z" tvg-stop="2026-08-29T02:30:00.000Z" group-title="American Football",Buccaneers vs Jaguars (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/e26215159144a6aad14636192898159df1985991bf72a3d0483b1bd2e3fc89cc/1787971742/nfl-jax-xyz.m3u8
+https://volder.timst.cfd/main/secure/e459779467fcc366d58c1df61dcd733948912140024c5348f243a02980a87ce1/1787995110/nfl-jax-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D50A0A&color2=006778&q=65&w=100" tvg-start="2026-08-28T23:30:00.000Z" tvg-stop="2026-08-29T02:30:00.000Z" group-title="American Football",Buccaneers vs Jaguars (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/3ffd91c33f83dac6d18e4daf4dd7c897c4983de6d760992a1dfb00ffa98e4d10/1787971742/nfl-tb-xyz.m3u8
+https://volder.timst.cfd/main/secure/8725304b1c3fbceb727af019bfa3d724cf624f832bcb6c10b3ecae60f59a7ab1/1787995110/nfl-tb-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D3BC8D&color2=003594&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Saints vs Cowboys (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/114a9dceb52c4bd70814735127c623c4201e4169a256adc41855846812583310/1787971743/nfl-dal-xyz.m3u8
+https://volder.timst.cfd/main/secure/cf07e2d9200e9c945b13a848071729b1be3ec2b163ed5fb9a72638c9b50e5065/1787995110/nfl-dal-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D3BC8D&color2=003594&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Saints vs Cowboys (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/6efdbdd3d97e92e50f562372942595ef20027734d2c6de8560f4bf92e594892f/1787971743/nfl-no-xyz.m3u8
+https://volder.timst.cfd/main/secure/8b0393c50a4bf817a422feffdb7dc552243bdca0687bd227f6782e8ee2aeb5b9/1787995110/nfl-no-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=203731&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Cardinals vs Packers (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/fdd2177fe0eaa7c4dbd4948dee9ea92e2e338bbfce93f7bdeaab96777df3ede1/1787971743/nfl-gb-xyz.m3u8
+https://volder.timst.cfd/main/secure/cd7c4d1c62ba8aa13f20ab652ec16c44f732817a5aeacfcc67e2f7376ba67d0d/1787995110/nfl-gb-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=203731&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Cardinals vs Packers (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/fb537d91624dc4003f2e348bf7f74be775297527313c96aafa9f58c9dcf65f3d/1787971743/nfl-ari-xyz.m3u8
+https://volder.timst.cfd/main/secure/036f8de7ca1ef7af20cd90e500a423fb0a0e46902f48a139b73214aba4ee3537/1787995110/nfl-ari-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002244&color2=E31837&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Seahawks vs Chiefs (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/9e0fec112fe991e8197e85642eb6ff58d3cdb3a9b921bde342bae4cb80221186/1787971743/nfl-kc-xyz.m3u8
+https://volder.timst.cfd/main/secure/54b4e3f7de8859453c36fcda152f2422eedf04d5499bc9a66b2fcf39d1c2de50/1787995110/nfl-kc-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002244&color2=E31837&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Seahawks vs Chiefs (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/3aaf35c7c7c6509219d7b904975e221287ae94ed49a644d74835c6c61f3c45a3/1787971744/nfl-sea-xyz.m3u8
+https://volder.timst.cfd/main/secure/04115316e75d23d97bfd12bee1254402728637eb1035bb424ab3c49cba6420d1/1787995110/nfl-sea-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cin.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=004C54&q=65&w=100" tvg-start="2026-08-29T00:00:00.000Z" tvg-stop="2026-08-29T03:00:00.000Z" group-title="American Football",Bengals vs Eagles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/575aa64e771bdcd259c1a5ebd41bd8f7d31b148e8bf4c3b75abda17ee0d70fa7/1787971744/nfl-cbs-xyz.m3u8
+https://volder.timst.cfd/main/secure/20653c98021e83ab577dc7c3df6ae7718547ec3779bb96b6504f9f52008d0e60/1787995110/nfl-cbs-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=4F2683&color2=FB4F14&q=65&w=100" tvg-start="2026-08-29T01:00:00.000Z" tvg-stop="2026-08-29T04:00:00.000Z" group-title="American Football",Vikings vs Broncos (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/546e368ba7761ce07bb7573256b177bcb9f80e9e23c89b4a219f456f5af50189/1787971744/nfl-min-xyz.m3u8
+https://volder.timst.cfd/main/secure/5bae55f5761ccb6c417d703c91f17d1864d2467167f9e6a4d329a335a1d83a25/1787995110/nfl-min-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=4F2683&color2=FB4F14&q=65&w=100" tvg-start="2026-08-29T01:00:00.000Z" tvg-stop="2026-08-29T04:00:00.000Z" group-title="American Football",Vikings vs Broncos (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/1f5344317eb1c823cf3abab29bb18d05c4c0d1c0484a879e075be44b52e3b226/1787971744/nfl-kc-xyz.m3u8
+https://volder.timst.cfd/main/secure/9b8f7d25f45105786b9399f2e9de3f7152e60a4629f90181a574a87856db9eae/1787995111/nfl-kc-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/03/1600x900/skysports-premier-league-man-city_5697132.jpg?20220307094519" tvg-start="2026-08-28T19:00:00.000Z" tvg-stop="2026-08-28T21:30:00.000Z" group-title="Football",Crystal Palace vs Manchester City (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/17afe93c8ac3eb82943db85fcc055e622ab4ca16287193997b27fd30f693eb5c/1787971745/skymain-xyz.m3u8
+https://volder.timst.cfd/main/secure/867b19e0be7de01de36143d1f2090fef80ea653740099c95c8237875e500fa5a/1787995111/skymain-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/03/1600x900/skysports-premier-league-man-city_5697132.jpg?20220307094519" tvg-start="2026-08-28T19:00:00.000Z" tvg-stop="2026-08-28T21:30:00.000Z" group-title="Football",Crystal Palace vs Manchester City (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/79cb10e17c7ad80e6eab035c99a935b2fb90c707c07a403b1686a6ef91630f04/1787971745/skymainuhd-xyz.m3u8
+https://volder.timst.cfd/main/secure/3ec0ca62ba9d5e91101e05d2de824626122c6605d5ae63834d9f8cc4dfd56142/1787995111/skymainuhd-xyz.m3u8
 
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/03/1600x900/skysports-premier-league-man-city_5697132.jpg?20220307094519" tvg-start="2026-08-28T19:00:00.000Z" tvg-stop="2026-08-28T21:30:00.000Z" group-title="Football",Crystal Palace vs Manchester City (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/77718f84cddf4f9e9828592b48b168ef84da18ed41c9f18a97f33d5cd3cfb6c7/1787971745/usanetwork-usa.m3u8
+https://volder.timst.cfd/main/secure/0b82afbbefcff382b9e83e4f7ed14ac4d2cac3505d046519670216916318fa47/1787995111/usanetwork-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/03/1600x900/skysports-premier-league-man-city_5697132.jpg?20220307094519" tvg-start="2026-08-28T19:00:00.000Z" tvg-stop="2026-08-28T21:30:00.000Z" group-title="Football",Crystal Palace vs Manchester City (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/893b6b2919cab384d3968078b3532fe85b8703f9aa72d4fbb559fbd2b941812e/1787971745/universo.m3u8
+https://volder.timst.cfd/main/secure/9c99fae1d284ff31051892c7444982a2423acf451f9f7c4801939cf1acd3c62a/1787995111/universo.m3u8
