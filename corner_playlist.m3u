@@ -92,14 +92,14 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1788121348~acl=*dash%2flive%2f20936
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=388fb0eb96c6460186211eeb16defba5:64851dfcf1a948909a783ae56b024b2b
-https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093686/219028-326330/manifest-d.mpd?aws.sessionId=f63731a9-c6d0-458f-869e-2dd6c32dd417&hdnea=st=1788033863~exp=1788033903~acl=*dash/live/2093686/219028-326330/*!*dash/live/2093686-b/219028-326330-b/*~id=b92d62fb-3256-4cbb-bf54-72dd5a2907b7~data=dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjAzMDMmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=f2f33a1144ae279e1bc4320da06ebc4401fb55fd262188ace5ea1714ff0dd8ca&opId=318&cc=NZ&ua=TW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNg%3D%3D&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2
+https://dice-live-oc.akamaized.net/hdntl=exp=1788122295~acl=*dash%2flive%2f2093686%2f219028-326330%2f*!*dash%2flive%2f2093686-b%2f219028-326330-b%2f*!%2fv1%2fdashsegment%2f*~id=62fe69b5-88c1-4845-b10e-15d448e0dd25~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjIzMTcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=3f82b061f2e35019ee21c0d66d12906f6e8c5985c6a0c278b0ed61ecb0bcd110/dash/live/2093686/219028-326330/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="8e607e379bd878c3bd57a97518c039c8" group-title="SkyGo - GOLF" tvg-logo="https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/F0AFFB7D-4E5A-46B3-AE0051D4C41D1D21.jpg", [LIVE] LPGA: Round 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb87d227853644078a5edfd3a1ee1cc2:c98ea90441ca4eaeadb1928cb5303fe5
-https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093687/219029-326331/manifest-d.mpd?aws.sessionId=049239e0-d5ab-424e-8c37-17890756c693&hdnea=st=1788033913~exp=1788033953~acl=*dash/live/2093687/219029-326331/*!*dash/live/2093687-b/219029-326331-b/*~id=89a65e46-d6f6-46b7-8655-535187b0158b~data=dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjAzNTMmZWlkPTIxOTAyOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=646e9c7e071330c7a8cde3874a47d3848fb7f7355b2258352bab58a2072cf71b&opId=318&cc=NZ&ua=TW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNg%3D%3D&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2
+https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093687/219029-326331/manifest-d.mpd?aws.sessionId=30e67d35-9d67-44fb-b409-3b13f760d1a0&hdnea=st=1788035792~exp=1788035832~acl=*dash/live/2093687/219029-326331/*!*dash/live/2093687-b/219029-326331-b/*~id=460fd6a8-d20b-4381-92c2-8a493e879802~data=dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjIyMzImZWlkPTIxOTAyOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=82bfb7fcf7158ea691baa7dd7dd762692e96fec8518d23d8d68f1105039bf0d2&opId=318&cc=NZ&ua=TW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zNg%3D%3D&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2
 
 #EXTINF:-1 tvg-id="a193ea4332ab8457fd53cbf1a37cd590" group-title="SkyGo - MARATHONS" tvg-logo="https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/5484693F-435B-4677-AD1A552F210D28CF.jpg", [LIVE] Sydney Marathon 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -120,7 +120,7 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1788121363~acl=*dash%2flive%2f20936
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=772af714e75847a9b24cc237311b559d:37262644850d46dbb1e048386e83c89e
-https://dice-live-oc.akamaized.net/hdntl=exp=1788120401~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=0cca6f3c-6acd-4b6b-a58b-3153229b7b6a~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjA0MjYmZWlkPTIxOTAzOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ca66b0a1d91db7636b5858633ae8999cd8381ef92c5306d2827e9c92b39edb88/dash/live/2093693/219038-326337/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1788122277~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=2beee053-8c0c-49dc-8268-fa061b0e98a1~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjIyODQmZWlkPTIxOTAzOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=3eafa54045cdb5f9f71f6523658e270f2f4f78034af67adea742f8d69d2b69c6/dash/live/2093693/219038-326337/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="9389ff605b0f737e4ee99ad3eea969eb" group-title="SkyGo - OTHERS" tvg-logo="https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/E98D43B1-A1EA-4111-B07B3A7C33522B50.png", [LIVE] Little League World Series
 #KODIPROP:inputstream=inputstream.adaptive
@@ -204,7 +204,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiI4YTU5NWVlOTIzNWY0ZDdmOGI5NWRkMzVkMjY4Y2RkNSIsImR5bmFfaWQiOiIxODgiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvOGE1OTVlZTkyMzVmNGQ3ZjhiOTVkZDM1ZDI2OGNkZDUvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.koVta4X4iVXAbTVqNvn2_bLIH72eVkNpWmyhFcQC-9uERx2kOBFN6mZ-5-AJQZDFPtuLxVASz8my5iIfNSa0XHGqiFjxniJrRovllXNPTgkSILW6qRmqb9R2XVvYXCvZYckqBEn2THMyFQt5NUSunXSjoOB98XUNmY8EKCr4_otWHNVqJpGPe0o835s4vwDAUvh4ZfJCbc93LPbpoh2gMpAaJ4f5dmIwWv48jwHYEGqW53vgA4t-Rufz8Cmp-qWfqF-H9Nyp0PH8Eq8pAkkZINO-oSHolgbIH4cT3O2Yt5Yziqyw2RKNGo3H--CNXuR5PZmuR-58eOhv9xskDUbEfw&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/188/20260829T195630Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/188/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="88d7e0355ac61956ed32d46b6aebfc1f" group-title="CRICKET" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.eurosport.com%2Ftaiga%2Fv2%2FProgram%2F31717835%2F501%2F2%2F1%2F31717835_16%3A9.jpg%3Fdate%3D20260812112429", [UPCOMING | 30-08-2026 05:30 WIB] Trinbago Knight Riders - Guyana Amazon Warriors | T20 | Caribbean Premier League
 #KODIPROP:inputstream=inputstream.adaptive
@@ -219,6 +219,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=997c57a480be479e9247edc415d78333:6fbd1687ece14f8eac22ec1052aab83d
 https://dice-live-oc.akamaized.net/hdntl=exp=1788120468~acl=*dash%2flive%2f2093688%2f219032-326332%2f*!*dash%2flive%2f2093688-b%2f219032-326332-b%2f*!%2fv1%2fdashsegment%2f*~id=d5baf84f-c6b5-47f5-b481-4786b666bbda~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjA0OTMmZWlkPTIxOTAzMiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=1bb06b36d62f4d2d4790654b8aee2a1638ae27fbdd45b221386221831e12703b/dash/live/2093688/219032-326332/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="35c07f05cc44d4bdda037ebd95711de4" group-title="SkyGo - OTHERS" tvg-logo="https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/995A3F5D-44D6-4C64-B843607E2FEA22D7.jpg", [UPCOMING | 30-08-2026 05:30 WIB] College Scoreboard
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=772af714e75847a9b24cc237311b559d:37262644850d46dbb1e048386e83c89e
+https://dice-live-oc.akamaized.net/hdntl=exp=1788122285~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=e587c907-075d-4d2e-99a0-b920fd46ec71~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjIzMDkmZWlkPTIxOTAzOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=b809564bea8b1023d8c020b11c2ead4ab7760cb0e02c623cdebb0f021e185033/dash/live/2093693/219038-326337/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="6ef3b4468e79f087da38699db85c997b" group-title="CARIBBEAN PREMIER LEAGUE" tvg-logo="", [UPCOMING | 30-08-2026 06:00 WIB] Caribbean Premier League
 #KODIPROP:inputstream=inputstream.adaptive
@@ -310,6 +317,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=515ed0408c9e4d68b07e73ad82f69da4:7cfbdf9cce624e11925b775cfe34eb91
 https://dice-live-oc.akamaized.net/dash/live/2093694/219039-326339/manifest-d.mpd?hdnea=st=1788034379~exp=1788034419~acl=*dash/live/2093694/219039-326339/*!*dash/live/2093694-b/219039-326339-b/*~id=a7d7ea0a-88d7-4111-8c7a-2bbca4c62426~data=dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjA4MTkmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=197c13c5472bd6cbde2f765eb8265ca27896130609ffba18d586731f0ac51ef6&opId=318&cc=NZ&ua=TW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNg%3D%3D
+
+#EXTINF:-1 tvg-id="b86f801c845c1a96db2347c8efa9f03b" group-title="SkyGo - OTHERS" tvg-logo="https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/DE1922E7-F0AE-43D0-BEB98DC9A6C5C73F.jpg", [UPCOMING | 30-08-2026 06:37 WIB] College Football: Howard v Alabama A&M
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=515ed0408c9e4d68b07e73ad82f69da4:7cfbdf9cce624e11925b775cfe34eb91
+https://dice-live-oc.akamaized.net/dash/live/2093694/219039-326339/manifest-d.mpd?hdnea=st=1788035900~exp=1788035940~acl=*dash/live/2093694/219039-326339/*!*dash/live/2093694-b/219039-326339-b/*~id=5f5b9c06-334e-4a2f-a240-e2af403b08d3~data=dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgxMjIzNDAmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=b2e2bdeeb3150f550bcb7bf6acfd5af49fcb696a6d87ccf122a2c159a5893e38&opId=318&cc=NZ&ua=TW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNg%3D%3D
 
 #EXTINF:-1 tvg-id="9fac016d52b787bb772a16d9a02726fe" group-title="BRASILEIRÃO" tvg-logo="", [UPCOMING | 30-08-2026 07:20 WIB] Vasco da Gama vs Cruzeiro
 #KODIPROP:inputstream=inputstream.adaptive
@@ -883,7 +897,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIwZTg3YTg0MTcwZGE0NjQ2YWE5MDUyOGFiZmNiZTJhOSIsImR5bmFfaWQiOiI3MzMiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMGU4N2E4NDE3MGRhNDY0NmFhOTA1MjhhYmZjYmUyYTkvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.oUQJLH2U6o6sEx0xRI4Gq5bRQmNhCo2HgQ2WeyDlxCvN_p-_aer128Gr5wR3C29xZNswP0QaCuhSkfwgOqpTus1nuh7nlb-MqwTg6JHvihj6-n3eTPgOP__1ZSsUs3VbEE-QIUdoa-RvCNVv88AxSt4yYtrv78H1yrtbutyQRHW0qSDKravtN5jw4R1Drdok70JfV4yzuWgjdDgsjJZpKUAtitRO-l4lhqInwsVuq3nJnbjWPKsydfxAWNefm5RfVX6JLRJ94A_zIPfu59B033lErYJdFsKJ5dHYEODMuXXjVfnbe3LcRmf0K1UpxPLJd2yvKt8RncI-baIh9KBYnA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/733/20260829T183000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/733/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="7370e8ade547db3fbe23e1d96c67e76b" group-title="SlingTV - baseball" tvg-logo="https://p-img.movetv.com/cms/images/f4004ca5d7772f255be0d0426c45e18ef2b8c0a1.PNG", [UPCOMING | 31-08-2026 02:10 WIB] Houston Astros at New York Mets
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2318,7 +2332,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIzODQ0YzBhZWU0ZGY0Mzg0OWE5Mzg3NzRlZTUwNGI0YSIsImR5bmFfaWQiOiIxNTMiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMzg0NGMwYWVlNGRmNDM4NDlhOTM4Nzc0ZWU1MDRiNGEvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.HkxKBQ1PEuTBl-5QPAdvZTr9UcMMqhnnAN6ca-Y44JV7xZ6oWaWFncIvUNZKmhSnUCorp8n-dCM30fr-Mp3mAdhqKaeP3JbWj1rpn9Ta0mWOED5rinAqFBXUiEytiVhaXOgVw-l1MS9DF89A1s1oqNGGYLBXtaOnKziH5nSZhhTzi9vsLum9BrxWO2HGYavs1mJ9qT4R5inyE1MYRwPkj-YWHdNhncxou45Sa5Dz4mw2TQgbl48wMancrdRRe-O4ZQaC6zGXAoIpS9L0dNhR8Y67Z9aKsBe5OBg4tXi2yOzroFfno5m8_rvvscWzoUgd9jLlrb3S2UmLeuCbLYXSgQ&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/153/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/153/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="d6d1ccf5b9a74d24be0e994c281f39a9" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/cms/images/8cfd88a8ab6874ccf43159dc111969dbf8167b44.png", [LIVE TV] ABC (KABC)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2360,7 +2374,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1231/20260829T193000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJmYWRiZDZhMGJlMTk0ZjdjYmMzYmUyZjZiOWIyMDdlOSIsImR5bmFfaWQiOiIxNjUwIiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzL2ZhZGJkNmEwYmUxOTRmN2NiYzNiZTJmNmI5YjIwN2U5L3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.SIDpv8JnkiqsfxPq5H3deafN9mmbCC10-ZD2OSognLsVixX9_e2D2vCZizqiQGdlpc6CVu_X-EqHL_Rowb8jopZXZXdWrJHI8ZGy-U3ZGDEXVgdNVse6Y6qCD3T-4dE1WWmBOnbgUb2A3EwZ_jRT0EqHDjyP0fmvf8WpguIN2xuKnJ2zIlS3fb2Rodkcn15pTrKF1TKNyv6bSQpHORIeVMrvTkHcZDxgjrup11E9WGtFXjpa3j4oqhy7dyTMqQKT92XcYtEXc6pU0gaomPfEsdULFGoucqGKYDFKD9YhC2aEegZhkN2Q1kzrM9aIaFKeaBTTpP4ZIMMPha_vGtmG2Q&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1650/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1650/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="8da93b497e644312b17d2420f1cb77f4" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/1280x720/35c26eafc2392c854b458a1c5ab006b1.jpeg", [LIVE TV] AMC
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2507,7 +2521,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2370/20260829T190000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJjNWU4MDJjMGZiYTA0ZDY4YjZjNGFhMmFjYjkzODc2YyIsImR5bmFfaWQiOiI3IiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzL2M1ZTgwMmMwZmJhMDRkNjhiNmM0YWEyYWNiOTM4NzZjL3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.0KmdxkWGkE-jCqG3E70g0tbaUEd7LRVmP9v88iiPZK5hJ02axK9VvbYvDroykDYcpPpyJvPqkydihoBFha7JHEIcwEiw9ZwHbwlKSQ5rLSVE0wsmjgq4JaFWg8hYxpNX-5izl42ki6ornFg1AOyhkRR7hgUGgH3iHMf52Ld3YSX0X9aXHYSRTby0glSj9A2VTBlyQDqSiGO2rxDJLsT2hN-bOhN65rfk7IxY7J4wE0emmFMVm1qTHdhhQdS6bcTqHdu8c6lIOY2sVaA7_jIORBztOI6F-l99dNwamiiQl-sbnkmVBy0AVcW3HOS0oQ0ttHl27ISkJOYNoCpqfq9cRQ&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/7/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/7/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="c306d4813eb54c3fb7a8c1aab7f74ae3" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/f4eb052baea0d0f261d154f7977a49b5a199ab35.png", [LIVE TV] Boston Celtics
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2612,7 +2626,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2512/20260829T200000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiI1Y2UxYzBlNTA0ZGY0Y2ZkYjllYmQzNTAzYjMzZTA3NSIsImR5bmFfaWQiOiIyNTEzIiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzLzVjZTFjMGU1MDRkZjRjZmRiOWViZDM1MDNiMzNlMDc1L3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.MKzOqgl6Roq8a_NE_8UNkTwGprBcWxthZlEgl8kKUq5yRuj2l5prsRd_VT78AEAjQPbxdDFP-jKYqx8YNPLz3RhTz_8neMK6qKUIiaSq7F-Mna2iTzoo2kjqzSShctzonaa8Amgi9rd_6QUN4i7qxuAHKMedXMAuYrBtYYAHYYBZ677fPEzwMkSk7ndjtGE1T_DWXlX5LAL3FvbIXJHZe3phN75-IVg70zfflOOBUqEStPOjA5jEjWVURyVxHhnXnRo-q3j7aaeGV_uJeQ1VqdFBAi1habS2KX13JINWm40Sjuh2eN0R5tpSYYKryi3he6NDS2MGIjU6CEIamSHcdA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2513/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2513/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="cae5c28f012145f3ac1b4c849aabfaab" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/b85351e6f7a6ec4fa4ca2cf06c42b98fa653e496.png", [LIVE TV] Charlotte Hornets
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2647,7 +2661,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/9/20260829T200000Z/20
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIyOTkzODMyOGY2MGQ0NDcyOTllYzQ4NTExYTA5ZWJhYiIsImR5bmFfaWQiOiI2MTMiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMjk5MzgzMjhmNjBkNDQ3Mjk5ZWM0ODUxMWEwOWViYWIvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.a_vD6wSyTvohBS3jmx0fzF8Q3l-ZgTUGXhVLLy7dqVYjsNwxxnbOz4JKxV2M1zhjefnyoSUv6rvt8IHsL1gF_s9htS_QxphJCkDK8sAbV0OJqx6ZbWmJo5aAH0sExC5YXUwscXgG1k8okCr86lNuhofDZVjUSCu5_xMoiBBIlyjwDQKTXEN-dLwcpESXTpDua8-AbsXGw0goNPSxg6-4TM2dXlQ96GqnefgZhgGWV83eFg65zAgW02aCvd9YTdk7QOED9hnL4ZPGZ2XYByvL6XUUjDuTOn-dXWPZQndoU3GFDxH9yNkWLQ635bkRveXxQ8L2JAc6slkvgv2_QSSOMA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/613/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/613/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="ea0ce745c8ee465db04f2e8573125c98" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/648dae5b150e02a5072ad4883715a931fc86eb93.png", [LIVE TV] Dallas Mavericks
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2682,14 +2696,14 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1102/20260829T200000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIwZTE4MzU5NjYxN2Q0NDI1YjkwMjZjYmY5NjAzOTg0YiIsImR5bmFfaWQiOiIxMjc2IiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzLzBlMTgzNTk2NjE3ZDQ0MjViOTAyNmNiZjk2MDM5ODRiL3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.A1b3UH9vImm-DHrFuJbGGpyEq4nHpqj9zft0L7kaVsB8Jwl--nBSHlYCEDVdSSp68qFM4ZwweEAv6LBRA7kNsFUkZ-uJE7kxxkK4MHzD-00HXVtGV-XFUcupj_GKLxpUmcE1sxHSiL08dm4-5n-LC8TemWmaUB_jx8SihbbFKlPSgbvk_0rJ7nzXfT--hd8nSKq3V-c8ba9weQtAV5Bi-N4pgQdQcNpM1eAdtY6ei4NpW6VyEmUCF8kC6-7372YQ10RhJhzhwCfAL8wTFB8kpcLdwIgsq36nVV6U55WDqjmc1Tp3fJZzh0_QK0m3tY8tQXEbzYGc5sLZtBKq7Q252Q&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1276/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1276/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="eb6e6c19dbaa498cbe5acfc45d3f0ea7" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/cms/images/0d835e0a4449c86e2e2fde74bf3a87dd8f500f4f.PNG", [LIVE TV] E!
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJlYjZlNmMxOWRiYWE0OThjYmU1YWNmYzQ1ZDNmMGVhNyIsImR5bmFfaWQiOiI2MzQiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvZWI2ZTZjMTlkYmFhNDk4Y2JlNWFjZmM0NWQzZjBlYTcvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.RctkBVVLSir3lMCmA5JgimKijbdG4ELCLCNxoM2UIrPp6qPOQfuw_HJXydK0QzKOvTbouX6ehaNWZNUq4TT520P_rLA8TTIqqEZnsscwXbwNi-4parFGAV6MxJNbYmWgKNlyFLKS6LZjLQ2wD-7ZdSuiDxiw85yNxyUVfnMP3RPLwJ2Vo6j9uMRwY1eDEBu4zZXf5wIw0cpSv4jEEDxHicQt__wIX9J0MXwq0AYdxeJJtY7o0M7orTjMVwAgAnzpUArnrgWzgog3AjH6gf_We1XINqk73wr-g-OPiBo3Sg_fvpjo52r9T-0oJtRy3uxkiEBWzWDKv3fAkY2Yvadj6A&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/634/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/634/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="ca0cad8dbb4a4e68962810d8a6aa8b6a" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/ed8adc6309b02d4b7fb208786a30ca04899e74b6.PNG", [LIVE TV] ESPN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2731,7 +2745,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1292/20260829T190000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJlY2E1YmYwMTg0MDU0ZDRjYjkzOGMwNDc2YWRjOTlkYiIsImR5bmFfaWQiOiIxMyIsInF2dCI6Imh0dHBzOi8vcC1wbGF5ZXJtZXRhZGF0YS5tb3ZldHYuY29tL3BsYXllcm1ldGFkYXRhL3NsaW5nL3YxL2FwaS9jaGFubmVscy9lY2E1YmYwMTg0MDU0ZDRjYjkzOGMwNDc2YWRjOTlkYi9zY2hlZHVsZS9ub3cvcGxheWJhY2tfaW5mby5xdnQiLCJjb250ZW50X3R5cGUiOiJsaXZlIiwiYXNzZXRfaWQiOm51bGx9.KAvusXnyP1jPuOEC61Xby7vR_Kye-EzHg7z7_x6XrUUbFpoJz0-JssSwB72nlbtz-EgAmlX6U3NAoZHRtRJeWUobpqfHROj191ZUbNekbq3JcNQwY_FMT9Qfl5xID52SEDqxsT02KB5MqtkFiT8qvwf2H2j8Q4QHmLDn8Ak9r-I9NFDRNfN6zS5v2Lz_WFz6WT5adUq5LDuzeIy8O9dKOk3GUDrW97JDBZbHYQ6dCuP-HMogm1TM0nflFeWCidDhahfZNlInVsv8bGwIejuLm8hx-RBrioOJsMXuY0z5mmJDjc71_4Zq586vTwAXnUi-9GWcZ79LvDU_c3P0KZkQnA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/13/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/13/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="cd358a13fd0a4763943bbcacafb8a10d" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/cms/images/716dc7ce57d80c03ff7bc4e2dbf974e184902273.PNG", [LIVE TV] FOX (KTTV)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2787,7 +2801,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/754/20260829T202700Z/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJiOTUyMmU0MmJmNzI0NGEwYTkxMGZhNzNlNWIyNjc2YiIsImR5bmFfaWQiOiIzMzIiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvYjk1MjJlNDJiZjcyNDRhMGE5MTBmYTczZTViMjY3NmIvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.Gi0qYyuOsXzU5a62kEAeVZnDhdacwMIt_EwxRqIBk6gbW5DODbFaCe0puIz1dRYcD5ZRuD5dP2g3G-5AMTSmZcRIr1ur1jaXq5zYrls236c76Og3pQoDVUHhbUMoxvmkFok8DZnZkNCAHK5TCq-mGj2-cQR_NKLAfFQqG3tDr6EX19HtKfV4OInVh6ewRUzznLAQlTtNly9hKHIVsHf8mBybUchvcTubgUoOW8TMTHcJ0jGGE92ONjS4caCyGl5L1n0zOwe2MSKup374gwiXhdf1whGhKD5U-DBsC1RFoLbxvVBdK1NwuWNdmKmi1fBAAEoP8ZM57HOZtPsjWmxwPg&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/332/20260829T201500Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/332/20260829T203000Z/20260829T204500Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="e4096cf09e774670beea3fd7c5887e09" group-title="SlingTV - Movies" tvg-logo="https://p-img.movetv.com/cms/images/a79ba88cf19e77f4d4156e1ae9e58b5db4e8719e.png", [LIVE TV] Freeform
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2808,14 +2822,14 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1914/20260829T193000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIxOWEyZDhmN2FiYTY0YTM5YmNmZTBkYjNhZTYwNWZhZCIsImR5bmFfaWQiOiI5ODYiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMTlhMmQ4ZjdhYmE2NGEzOWJjZmUwZGIzYWU2MDVmYWQvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.dpLwFRGSqmIrW5iIwmjpMGPZ9X_5gZb_R7GsE_4OlRhaVzxpk6mdvHOSm-RtP2sw4wPjTrR8mZax3Q_nDdhzvmQxF878NzhU15pANFJIgEuyiLxdyDKmvLQcsy-2Qiwh4KLkOmJDTfkweotDeuZlD89Ypkwd_4FxCPdDwjGAq22zu8WLskkYWWO6dGAU52Yf6FeOBelFrErTEElCquLG1UcHhcyWgiXeqOGv6SLoqlDuu3IXuidqAerYwLCjSzqYYFptiAv18E1ezxLgv7b2mdJkyFTzM_9H2vcRIgUnLtas5vOtOwdtIx5NzJgiR43WhK77mKkpysjuJ8odHCbdRw&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/986/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/986/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="2f5c3abe53004a3db6b236739c12a955" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/cms/images/bf7f058337f505bafb8769428508959b0b5f8836.PNG", [LIVE TV] FX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIyZjVjM2FiZTUzMDA0YTNkYjZiMjM2NzM5YzEyYTk1NSIsImR5bmFfaWQiOiI1NTgiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMmY1YzNhYmU1MzAwNGEzZGI2YjIzNjczOWMxMmE5NTUvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.u-mzJIdgeXlAA5z-AIeb9LMGpl6z6ORBdnwWclgpCxwVZLC9ptMYuByB6KpfAKDABhjz8Mb7VKpkSCiMNqz4T2hKVR7DXk8B-oz92arCHlJx5cM4cGn9-8mndTvAo9NB1izo6Vki8jtOnvvkkL_aAZAB8YAuzTan2A8ARF_FPGXii_LDd3GWl0F8m-cOU9_0F_JghYKbhGNTUgpEQr2rnyieINfsOP03VdYDP6KoGLn1kP-5RGMGFaF-qMx4qOMRUJl6RZm0xFBL1fYGt0Ap4CX7QfBtmtnphtfWtfLdQW756fb6H-8kFVJg7119yRZyLN5X7qil8Z5jMfnlpIRKlA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/558/20260829T183000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/558/20260829T203000Z/20260829T233000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="d7bc45a1962747e19a87d5ca17a51edc" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/32103898bc141adf8cbd5148ae05e8c1987f0e09.png", [LIVE TV] Golden State Warriors
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2836,7 +2850,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/631/20260829T190000Z/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJlZWJkM2ZiNDFhZTA0ZGM3ODU3NjdjMGI0YjBmMzRjMCIsImR5bmFfaWQiOiIxNCIsInF2dCI6Imh0dHBzOi8vcC1wbGF5ZXJtZXRhZGF0YS5tb3ZldHYuY29tL3BsYXllcm1ldGFkYXRhL3NsaW5nL3YxL2FwaS9jaGFubmVscy9lZWJkM2ZiNDFhZTA0ZGM3ODU3NjdjMGI0YjBmMzRjMC9zY2hlZHVsZS9ub3cvcGxheWJhY2tfaW5mby5xdnQiLCJjb250ZW50X3R5cGUiOiJsaXZlIiwiYXNzZXRfaWQiOm51bGx9.J8fVpNZVCqDWrQhpNcf0GBgv3sfyPworN_cfHXRGmWkx2hyrjnCbJsdmZr1Gd1AyVXIFQLsopGhUXu8BwBF-w5aZ5o_G6YMs13_JAs-S2JBWgv7vmRyxbcpDtn5wADLnaxxPiI8cRSyXz5XlygGHu8pht9Bc0ZBugg9bfiLeD5-vJLn8gDyhXMSsh17nkT6kwXAHT4EaxME8XdsZonqXvZxQK1-AoKwkD5L6XMENWRM2DyhjPQTUHVgFuWR-UqtpBurwIdWmuOBc_BUI1MW9zp55nBSOdS6gVxFQaNsPbg072ZFNR4aWKVNPLUiiJngG-ox6PwBerhLh0F4S9Q4fFA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/14/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/14/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="b6a52c66df864231807cdd9e0b15689f" group-title="SlingTV - Reality" tvg-logo="https://p-img.movetv.com/1280x720/557a9e5bb785d8d7d5a6655fed15d37a.png", [LIVE TV] History
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2962,7 +2976,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/458/20260829T200000Z/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIwZTg3YTg0MTcwZGE0NjQ2YWE5MDUyOGFiZmNiZTJhOSIsImR5bmFfaWQiOiI3MzMiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvMGU4N2E4NDE3MGRhNDY0NmFhOTA1MjhhYmZjYmUyYTkvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.oUQJLH2U6o6sEx0xRI4Gq5bRQmNhCo2HgQ2WeyDlxCvN_p-_aer128Gr5wR3C29xZNswP0QaCuhSkfwgOqpTus1nuh7nlb-MqwTg6JHvihj6-n3eTPgOP__1ZSsUs3VbEE-QIUdoa-RvCNVv88AxSt4yYtrv78H1yrtbutyQRHW0qSDKravtN5jw4R1Drdok70JfV4yzuWgjdDgsjJZpKUAtitRO-l4lhqInwsVuq3nJnbjWPKsydfxAWNefm5RfVX6JLRJ94A_zIPfu59B033lErYJdFsKJ5dHYEODMuXXjVfnbe3LcRmf0K1UpxPLJd2yvKt8RncI-baIh9KBYnA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/733/20260829T183000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/733/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="29405d6641204b3c908876870034b3e5" group-title="SlingTV - Entertainment" tvg-logo="https://p-img.movetv.com/cms/images/f4004ca5d7772f255be0d0426c45e18ef2b8c0a1.PNG", [LIVE TV] NBC (WCAU)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2990,7 +3004,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2660/20260829T200000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiIyZmU0M2E3YmQ5NDk0ZTQ3YjkwMmM1ZjU2ZjE5MWI1YyIsImR5bmFfaWQiOiIyNjYxIiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzLzJmZTQzYTdiZDk0OTRlNDdiOTAyYzVmNTZmMTkxYjVjL3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.Q6MCufPk7Huk5-ZaCHtVuthkCuYZlDIANWUuwwuwPSEmpxUPmegqdQOg4s6ctzMwNQPpW9Y7WTVuHoE0rlmrEZlbWGsCKsoIZkTuXzRn9VNx610VE7b40MVUoF5s1rU0qSwKdpyDR0lLtPdwM6jhG8-8i5bGPM70s3kbUn9AHOoDChLgePEGY8yspX3whYpg50HQxDEd7YFrMtbniw42fIUTNyvWPApz3ZtNUe7FWajHKkXUDQY0G4oDhdnS9UGQ3lyvQigp9NM8jTrQiCExYAt7oKZEzvWbp9FnUv6zrlCIk1grn3M9tZyL3xVN5M7uI2rCWCV5jWlvAt8SWdV-oQ&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2661/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2661/20260829T203000Z/20260829T213000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="5ed6a6729a504e008b862dee4563bb90" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/cms/images/b12797d38045e53d3a06836346a43b0eed10b28a.png", [LIVE TV] New Orleans Pelicans
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3011,7 +3025,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1024/20260829T180000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiI4YTU5NWVlOTIzNWY0ZDdmOGI5NWRkMzVkMjY4Y2RkNSIsImR5bmFfaWQiOiIxODgiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvOGE1OTVlZTkyMzVmNGQ3ZjhiOTVkZDM1ZDI2OGNkZDUvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.koVta4X4iVXAbTVqNvn2_bLIH72eVkNpWmyhFcQC-9uERx2kOBFN6mZ-5-AJQZDFPtuLxVASz8my5iIfNSa0XHGqiFjxniJrRovllXNPTgkSILW6qRmqb9R2XVvYXCvZYckqBEn2THMyFQt5NUSunXSjoOB98XUNmY8EKCr4_otWHNVqJpGPe0o835s4vwDAUvh4ZfJCbc93LPbpoh2gMpAaJ4f5dmIwWv48jwHYEGqW53vgA4t-Rufz8Cmp-qWfqF-H9Nyp0PH8Eq8pAkkZINO-oSHolgbIH4cT3O2Yt5Yziqyw2RKNGo3H--CNXuR5PZmuR-58eOhv9xskDUbEfw&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/188/20260829T195630Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/188/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="831685a48158424ca4d1263de3292bc1" group-title="SlingTV - Sports" tvg-logo="https://p-img.movetv.com/1280x720/8ce88d415e177ad6397186f841278e4a.png", [LIVE TV] NFL Network Alt
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3046,7 +3060,7 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1214/20260829T180000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiJlMWI5Y2NmNWRmNjQ0MDEyYmRjZmU1Y2E4YTY4ZjFkMiIsImR5bmFfaWQiOiI2MTQiLCJxdnQiOiJodHRwczovL3AtcGxheWVybWV0YWRhdGEubW92ZXR2LmNvbS9wbGF5ZXJtZXRhZGF0YS9zbGluZy92MS9hcGkvY2hhbm5lbHMvZTFiOWNjZjVkZjY0NDAxMmJkY2ZlNWNhOGE2OGYxZDIvc2NoZWR1bGUvbm93L3BsYXliYWNrX2luZm8ucXZ0IiwiY29udGVudF90eXBlIjoibGl2ZSIsImFzc2V0X2lkIjpudWxsfQ.MDwZ6XJ4bZGZiKjkDH7q5jj8Cl2sMrSIPf9Z2DjllFbnk39EpRjgMTZE79zofId-XaRLOSEqfLPr9MYGuc7foh2yPHgQGWB0fvAjqRPExQyrw-0LuI4WyuS_epvkU5HLdNdEP1QoG1ChjGpKfJ76T1pah5PbWbtVN5Lexzf2USPSgWRqkMqHR1EzXm-WZg73oWjVufNELdWkshW83tNKyucA0Ky_TmHAzYL1DZWpr8R4hGxahA7gMaaNMTBlOfJX0vodz-HVH0VohU1Sc1gXn9j4nrdi25Vz5WjF68H1mYQWBTMVGEeLOrKocmTTxDHLFqJ-gFQUW7jQ-2U4eqeKBA&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/614/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/614/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-id="39b5af6009bb4ba1bf11e80e252da7a8" group-title="SlingTV - Kids & Family" tvg-logo="https://p-img.movetv.com/cms/images/0ee02418f8e0f5b4e414971366009b08a2877827.png", [LIVE TV] Nick Jr. Pluto TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3228,5 +3242,5 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2406/20260829T200000Z
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy|Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM1Mzg2NjY1LTMzNjQtNjMzNy0zMjY0LTM5MzUzNTY2Mzk2NCJ9.eyJ1c2VyX2d1aWQiOiJmOWQzM2QwYS03NTczLTExZTctYjU5NC0wZWFiMjc1ZmRkNGYiLCJjaGFubmVsX2d1aWQiOiI3ZDU2N2I2MmVlYTc0MGZlYTJjODdjNGNiZWMyNDNlYiIsImR5bmFfaWQiOiIxNjA3IiwicXZ0IjoiaHR0cHM6Ly9wLXBsYXllcm1ldGFkYXRhLm1vdmV0di5jb20vcGxheWVybWV0YWRhdGEvc2xpbmcvdjEvYXBpL2NoYW5uZWxzLzdkNTY3YjYyZWVhNzQwZmVhMmM4N2M0Y2JlYzI0M2ViL3NjaGVkdWxlL25vdy9wbGF5YmFja19pbmZvLnF2dCIsImNvbnRlbnRfdHlwZSI6ImxpdmUiLCJhc3NldF9pZCI6bnVsbH0.zkAXya7tW13ZkyYHb5DHB8SlSg9SozKBUUgY6iKA_3BvSFv8TeN4aeaQd-e-yF3xw6Pjf2uzZTTC8RNcBO0KyboIErADl1QJx3EjnByJmT4JGAZTiS2VEvKQ7oUh-ZbwP7IiYiKxiQSsRfgbngl1uXweRQ3UmIV1aiNCC0Dd-bISWy3XFm-kBzWID72JM-bbxMO53quwqngDuTl5DTb9akOpntxU5fyLQe44w0lMhV5zzD9y46H1iEgwYNvYiKWMpyv9eKZWao3dr293WKrY5uc1rD025mvCiasKOIWZRqxl0v5190n5ppeLotRIK9ZikHYCgpczg645fscEDvWQxw&Content-Type=application/json|R{SSM}|
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1607/20260829T200000Z/20260829T203000Z/master_7_3_widevine.m3u8
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/1607/20260829T203000Z/20260829T210000Z/master_7_3_widevine.m3u8
 
