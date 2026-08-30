@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-30T18:41:58.959Z
-# Channels: 52 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-30T23:35:29.900Z
+# Channels: 52 | Homepage Events: 2 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -452,17 +452,11 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=0057B8&q=65&w=100" tvg-start="2026-08-30T15:00:00.000Z" tvg-stop="2026-08-30T17:00:00.000Z" group-title="Football",Real Madrid vs Malaga
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/fyzikwf2o27fhbrudiz8ev3jtm0e" tvg-start="2026-08-30T23:00:00.000Z" tvg-stop="2026-08-31T02:30:00.000Z" group-title="Racing",Tyler County Speedway - Middlebourne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i3-stream-3.html
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=0000FF&q=65&w=100" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-08-30T17:30:00.000Z" group-title="Football",Manchester United vs Ipswich Town
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-epl-1.html
+https://xyzstreams.st/i-stream-4.html
 
 #EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01m146zf5cgymede0mx2.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-08-30T17:30:00.000Z" group-title="Football",AEW All In
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
