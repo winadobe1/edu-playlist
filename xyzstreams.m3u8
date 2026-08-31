@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-31T09:53:07.479Z
-# Channels: 52 | Homepage Events: 2 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-31T19:09:31.782Z
+# Channels: 52 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -452,11 +452,17 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/fyzikwf2o27fhbrudiz8ev3jtm0e" tvg-start="2026-08-30T23:00:00.000Z" tvg-stop="2026-08-31T02:30:00.000Z" group-title="Racing",Tyler County Speedway - Middlebourne
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7wa4qy1787740853.jpg/medium" tvg-start="2026-08-31T19:00:00.000Z" tvg-stop="2026-08-31T21:30:00.000Z" group-title="Football",Aston Villa vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-stream-4.html
+https://xyzstreams.st/i-epl-1.html
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/22qa271784904444.jpg/medium" tvg-start="2026-08-31T19:30:00.000Z" tvg-stop="2026-08-31T21:30:00.000Z" group-title="Football",Barcelona vs Rayo Vallecano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/i3-stream-3.html
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-09-30T15:30:00.000Z" group-title="US Open",All Feeds & Courts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
