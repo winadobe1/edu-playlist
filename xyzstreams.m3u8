@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-30T23:35:29.900Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-31T05:46:30.257Z
 # Channels: 52 | Homepage Events: 2 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -458,8 +458,8 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/i-stream-4.html
 
-#EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01m146zf5cgymede0mx2.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-08-30T17:30:00.000Z" group-title="Football",AEW All In
+#EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-09-30T15:30:00.000Z" group-title="US Open",All Feeds & Courts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-stream-2.html
+https://xyzstreams.st/usopen.html
