@@ -349,6 +349,49 @@ https://zekonew.newkso.ru/zeko/premium352/mono.m3u8?|Referer=https://newembedpla
 #EXTINF:-1 tvg-id="sportzx.ch.60.4" tvg-name="SportzX Channel 60 - Server 4" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 60 - Server 4
 https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8?|Referer=https://newembedplay.xyz&Origin=https://newembedplay.xyz&User-Agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-id="sportzx.ch.107.1" tvg-name="SportzX Channel 107 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.2" tvg-name="SportzX Channel 107 - Server 2" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.3" tvg-name="SportzX Channel 107 - Server 3" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.4" tvg-name="SportzX Channel 107 - Server 4" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.5" tvg-name="SportzX Channel 107 - Server 5" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gglgikh5ue/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.6" tvg-name="SportzX Channel 107 - Server 6" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.7" tvg-name="SportzX Channel 107 - Server 7" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.8" tvg-name="SportzX Channel 107 - Server 8" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 8
+https://windnew.newkso.ru/wind/premium84/mono.m3u8?|Referer=https://newembedplay.xyz&Origin=https://newembedplay.xyz&User-Agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="sportzx.ch.107.9" tvg-name="SportzX Channel 107 - Server 9" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 107 - Server 9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
 #EXTINF:-1 tvg-id="sportzx.ch.131.1" tvg-name="SportzX Channel 131 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 131 - Server 1
 https://api.sportzxtv.com/sportzx-stream/series.mkv?id=378721
 
@@ -658,6 +701,22 @@ https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
+#EXTINF:-1 tvg-id="sportzx.ch.332.1" tvg-name="SportzX Channel 332 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 332 - Server 1
+https://stream2.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/0185aab4ab4e1ea540e60615c5d4/main.m3u8
+
+#EXTINF:-1 tvg-id="sportzx.ch.333.1" tvg-name="SportzX Channel 333 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 333 - Server 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=162f67f07df3233d7c3bb91773b16cc9:af9759046dbd28c3f9c77b46ddb12cd7
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tzkubkl7gl/out/v1/a9e7797540a0499283b1241ce8211fe2/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.333.2" tvg-name="SportzX Channel 333 - Server 2" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 333 - Server 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20e3bcaab2a40e25170df889a2355855:5c1571180953c65fc3253e86a4a47ca8
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/qbz27hscbn/out/v1/83c06d0b0ff745889f7a47321a4fa4e9/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="sportzx.ch.333.3" tvg-name="SportzX Channel 333 - Server 3" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 333 - Server 3
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
 #EXTINF:-1 tvg-id="sportzx.ch.334.1" tvg-name="SportzX Channel 334 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 334 - Server 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89a78dcc215be378aa5f7c1c29d5c8ba:09af750a9b565b96fa77dc4b327eded6
@@ -674,6 +733,17 @@ https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8?|Referer=https://jxoplay.
 
 #EXTINF:-1 tvg-id="sportzx.ch.334.5" tvg-name="SportzX Channel 334 - Server 5" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 334 - Server 5
 https://zekonew.newkso.ru/zeko/premium370/mono.m3u8?|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="sportzx.ch.337.1" tvg-name="SportzX Channel 337 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 337 - Server 1
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+
+#EXTINF:-1 tvg-id="sportzx.ch.337.2" tvg-name="SportzX Channel 337 - Server 2" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 337 - Server 2
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+
+#EXTINF:-1 tvg-id="sportzx.ch.337.3" tvg-name="SportzX Channel 337 - Server 3" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 337 - Server 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #EXTINF:-1 tvg-id="sportzx.ch.338.1" tvg-name="SportzX Channel 338 - Server 1" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL.png" group-title="SPORTS CHANNELS",SportzX Channel 338 - Server 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
