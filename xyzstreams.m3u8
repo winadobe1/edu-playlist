@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-02T23:22:33.769Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-03T04:39:46.616Z
 # Channels: 91 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -885,7 +885,7 @@ https://xyzstreams.st/mls-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/b4f6877e093fd57a4a3d07cde444c34fed71ce877960e2af31acba15aeab4cc8/1788394955/mls-2-xyz.m3u8
+https://xyzstreams.blog/2/stream/sling/tudniplldishonly/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-09-30T15:30:00.000Z" group-title="US Open",All Feeds & Courts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
