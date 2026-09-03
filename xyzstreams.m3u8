@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-03T16:31:56.137Z
-# Channels: 91 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-03T18:44:59.687Z
+# Channels: 91 | Homepage Events: 2 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -875,17 +875,11 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/toluca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/leon.png&logo3=https://images.mlssoccer.com/image/upload/v1680232383/assets/lc/logos/Leagues_Cup-Cup-Logo-480x480_ytky7i&color1=ED1C24&color2=006633&q=65&w=100" tvg-start="2026-09-03T01:00:00.000Z" tvg-stop="2026-09-03T03:00:00.000Z" group-title="Football",Toluca vs León
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https%3A%2F%2Fartwork.espncdn.com%2Fevents%2F401680036%2F16x9%2F1280x720_20250424032452.jpg&showBadge=true" tvg-start="2026-09-03T19:00:00.000Z" tvg-stop="2026-09-03T21:30:00.000Z" group-title="Football",Real Sociedad vs Celta de Vigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/mls-1.html
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/america.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/monterrey.png&logo3=https://images.mlssoccer.com/image/upload/v1680232383/assets/lc/logos/Leagues_Cup-Cup-Logo-480x480_ytky7i&color1=FFCC00&color2=1C3E7C&q=65&w=100" tvg-start="2026-09-03T03:30:00.000Z" tvg-stop="2026-09-03T05:30:00.000Z" group-title="Football",América vs Monterrey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/tudniplldishonly/stream_0.m3u8
+https://xyzstreams.st/13-stream-3.html
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-09-30T15:30:00.000Z" group-title="US Open",All Feeds & Courts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
