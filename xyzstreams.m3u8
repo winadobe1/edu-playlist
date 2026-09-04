@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-04T08:07:28.150Z
-# Channels: 91 | Homepage Events: 2 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-04T13:35:52.450Z
+# Channels: 91 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -875,11 +875,41 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" tvg-start="2026-09-03T22:00:00.000Z" tvg-stop="2026-09-04T05:00:00.000Z" group-title="American Football",College Football Week 1: Thursday
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" tvg-start="2026-09-04T22:30:00.000Z" tvg-stop="2026-09-05T05:00:00.000Z" group-title="American Football",College Football Week 1: Friday
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/cfb.html
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0000FF&color2=C8102E&q=65&w=100" tvg-start="2026-09-04T19:00:00.000Z" tvg-stop="2026-09-04T21:00:00.000Z" group-title="Football",Ipswich Town vs Liverpool (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/tod/bein2/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0000FF&color2=C8102E&q=65&w=100" tvg-start="2026-09-04T19:00:00.000Z" tvg-stop="2026-09-04T21:00:00.000Z" group-title="Football",Ipswich Town vs Liverpool (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/tod/beinen/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/images/teams/spain/logos/real-betis.png&logo2=https://cdn.livesoccertv.com/images/teams/spain/logos/real-madrid.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-04T19:00:00.000Z" tvg-stop="2026-09-04T21:00:00.000Z" group-title="Football",Real Betis vs Real Madrid (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/espn/event4789/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/images/teams/spain/logos/real-betis.png&logo2=https://cdn.livesoccertv.com/images/teams/spain/logos/real-madrid.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-04T19:00:00.000Z" tvg-stop="2026-09-04T21:00:00.000Z" group-title="Football",Real Betis vs Real Madrid (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/espn/event4788/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/images/teams/spain/logos/real-betis.png&logo2=https://cdn.livesoccertv.com/images/teams/spain/logos/real-madrid.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-04T19:00:00.000Z" tvg-stop="2026-09-04T21:00:00.000Z" group-title="Football",Real Betis vs Real Madrid (Link 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/tod/4ktrst/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-08-30T15:30:00.000Z" tvg-stop="2026-09-30T15:30:00.000Z" group-title="US Open",All Feeds & Courts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
