@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T15:28:25.234Z
-# Channels: 0 | Homepage Events: 12 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T17:27:43.123Z
+# Channels: 0 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # MLB STREAMS (Auto-Discovered)
@@ -332,329 +332,89 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/cfb.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=241F20&color2=DA291C&q=65&w=100" tvg-start="2026-09-05T11:30:00.000Z" tvg-stop="2026-09-05T13:30:00.000Z" group-title="Football",Newcastle United vs AFC Bournemouth (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/usa/stream_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=241F20&color2=DA291C&q=65&w=100" tvg-start="2026-09-05T11:30:00.000Z" tvg-stop="2026-09-05T13:30:00.000Z" group-title="Football",Newcastle United vs AFC Bournemouth (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/universo/stream_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSN/N0002/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU3/N0004/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU4/N0005/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU6/N0007/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/BTN/F2029/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WDCWDT/M1395/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/CBSSN/C0037/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WPGH/F3171/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/FS1/F1021/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WESH/N1040/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=EB172B&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brentford vs Sunderland (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WCBS/F0001/master.m3u88
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSN/N0002/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU3/N0004/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU4/N0005/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU6/N0007/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/BTN/F2029/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WDCWDT/M1395/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/CBSSN/C0037/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WPGH/F3171/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/FS1/F1021/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WESH/N1040/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0057B8&color2=FFCD00&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Brighton & Hove Albion vs Leeds United (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WCBS/F0001/master.m3u88
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSN/N0002/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU3/N0004/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU4/N0005/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU6/N0007/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/BTN/F2029/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WDCWDT/M1395/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/CBSSN/C0037/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WPGH/F3171/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/FS1/F1021/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WESH/N1040/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WCBS/F0001/master.m3u88
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=6CABDD&color2=00BFFF&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Manchester City vs Coventry City (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/usa/stream_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=6CABDD&color2=00BFFF&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Manchester City vs Coventry City (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/fubo/telemundo/stream_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSN/N0002/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU3/N0004/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU4/N0005/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/NBCSNOU6/N0007/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/BTN/F2029/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WDCWDT/M1395/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/CBSSN/C0037/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WPGH/F3171/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/FS1/F1021/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WESH/N1040/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=132257&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Nottingham Forest vs Tottenham Hotspur (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WCBS/F0001/master.m3u88
-
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/tod/bein2/stream_0.m3u8
+https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/tod/4k2/stream_0.m3u8
+https://dlhd.net/NBCSN/N0002/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/NBCSNOU3/N0004/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/NBCSNOU4/N0005/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/NBCSNOU6/N0007/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/BTN/F2029/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/BTN2/F1102/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/WDCWDT/M1395/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/CBSSN/C0037/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/WPGH/F3171/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/FS1/F1021/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/WESH/N1040/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://dlhd.net/WCBS/F0001/master.m3u88
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A623&color2=670E36&q=65&w=100" tvg-start="2026-09-05T16:30:00.000Z" tvg-stop="2026-09-05T18:30:00.000Z" group-title="Football",Hull City vs Aston Villa (Link 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=EE2737&color2=CB3524&q=65&w=100" tvg-start="2026-09-05T14:15:00.000Z" tvg-stop="2026-09-05T16:15:00.000Z" group-title="Football",Athletic Club vs Atlético Madrid (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
