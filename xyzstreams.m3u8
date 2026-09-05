@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T20:28:15.835Z
-# Channels: 0 | Homepage Events: 3 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T22:58:52.367Z
+# Channels: 0 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # MLB STREAMS (Auto-Discovered)
@@ -331,6 +331,12 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/cfb.html
+
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/252u1r6n63s5qcz9nsbbkd4nqs2c" tvg-start="2026-09-05T17:55:00.000Z" tvg-stop="2026-09-06T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/i-stream-2.html
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ofr1ceSIbj0/maxresdefault.jpg" tvg-start="2026-09-05T17:30:00.000Z" tvg-stop="2026-09-05T19:30:00.000Z" group-title="Events",UFC Fight Night
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
