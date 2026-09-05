@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T07:44:56.971Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-05T12:48:11.957Z
 # Channels: 91 | Homepage Events: 12 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -903,7 +903,7 @@ https://xyzstreams.st/i-epl-3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://volder.timst.cfd/main/secure/b15210901666e7a28af15efeb84529d76ed273f4953963bf77dbc01cd611a336/1788597898/usanetwork-usa.m3u8
+https://volder.timst.cfd/main/secure/68dd88ce5dd82c64b9bde980b299e052475b06ebfeb86d47301a859b8a15da17/1788616093/usanetwork-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev//?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=CC0000&color2=1B458F&q=65&w=100" tvg-start="2026-09-05T14:00:00.000Z" tvg-stop="2026-09-05T16:00:00.000Z" group-title="Football",Fulham vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
