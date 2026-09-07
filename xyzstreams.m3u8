@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-07T15:06:54.262Z
-# Channels: 90 | Homepage Events: 9 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-07T17:47:45.967Z
+# Channels: 90 | Homepage Events: 5 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -869,49 +869,25 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" tvg-start="2026-09-06T16:00:00.000Z" tvg-stop="2026-09-07T04:00:00.000Z" group-title="American Football",College Football Week 1: Sunday
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2567.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png&scale=crop&cquality=40&location=origin&w=64&h=64&color1=003399" tvg-start="2026-09-07T23:00:00.000Z" tvg-stop="2026-09-07T03:30:00.000Z" group-title="American Football",SMU at Florida State
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/cfb.html
+https://xyzstreams.st/cfb-1.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=003399&color2=DA291C&q=65&w=100" tvg-start="2026-09-06T13:00:00.000Z" tvg-stop="2026-09-06T15:00:00.000Z" group-title="Football",Everton vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-epl-1.html
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/valencia.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=FF6600&color2=A50044&q=65&w=100" tvg-start="2026-09-06T14:15:00.000Z" tvg-stop="2026-09-06T16:15:00.000Z" group-title="Football",Valencia vs Barcelona
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/getafe.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0055A5&color2=88B0E8&q=65&w=100" tvg-start="2026-09-07T17:00:00.000Z" tvg-stop="2026-09-07T19:00:00.000Z" group-title="Football",Getafe vs Celta de Vigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/laliga-1.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EF0107&color2=034694&q=65&w=100" tvg-start="2026-09-06T15:30:00.000Z" tvg-stop="2026-09-06T17:30:00.000Z" group-title="Football",Arsenal vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-epl-1.html
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D91A21&q=65&w=100" tvg-start="2026-09-06T16:30:00.000Z" tvg-stop="2026-09-06T18:30:00.000Z" group-title="Football",Deportivo Alavés vs Osasuna
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=0066CC&q=65&w=100" tvg-start="2026-09-07T19:30:00.000Z" tvg-stop="2026-09-07T21:30:00.000Z" group-title="Football",Elche vs Real Sociedad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/laliga-2.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0072CE&color2=002D62&q=65&w=100" tvg-start="2026-09-06T16:30:00.000Z" tvg-stop="2026-09-06T18:30:00.000Z" group-title="Football",Málaga vs Levante
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/laliga-3.html
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D71920&q=65&w=100" tvg-start="2026-09-06T19:00:00.000Z" tvg-stop="2026-09-06T21:00:00.000Z" group-title="Football",Espanyol vs Sevilla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/laliga-4.html
-
-#EXTINF:-1 tvg-logo="https://imca.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkYyQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16b0d0376508d9156ec9f8ee1664a517ae351139/d1397e6f447f0f802f6e50700c251f60.png" tvg-start="2026-09-06T19:00:00.000Z" tvg-stop="2026-09-07T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-07T19:00:00.000Z" tvg-stop="2026-09-08T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
