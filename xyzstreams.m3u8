@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-07T19:14:26.966Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-07T23:37:02.464Z
 # Channels: 90 | Homepage Events: 5 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -869,7 +869,7 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2567.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png&scale=crop&cquality=40&location=origin&w=64&h=64&color1=003399" tvg-start="2026-09-07T23:00:00.000Z" tvg-stop="2026-09-07T03:30:00.000Z" group-title="American Football",SMU at Florida State
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2567.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png&scale=crop&cquality=40&location=origin&w=64&h=64&color1=003399" tvg-start="2026-09-07T23:30:00.000Z" tvg-stop="2026-09-08T03:30:00.000Z" group-title="American Football",SMU at Florida State
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -885,7 +885,7 @@ https://xyzstreams.st/laliga-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/laliga-2.html
+https://xyzstreams.st/laliga-1.html
 
 #EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-07T19:00:00.000Z" tvg-stop="2026-09-08T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
