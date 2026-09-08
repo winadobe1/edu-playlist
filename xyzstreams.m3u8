@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-07T23:37:02.464Z
-# Channels: 90 | Homepage Events: 5 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-08T04:46:20.414Z
+# Channels: 90 | Homepage Events: 9 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -875,17 +875,41 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/cfb-1.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/getafe.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0055A5&color2=88B0E8&q=65&w=100" tvg-start="2026-09-07T17:00:00.000Z" tvg-stop="2026-09-07T19:00:00.000Z" group-title="Football",Getafe vs Celta de Vigo
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/greece/logos/aek-athens.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/austria/logos/lask-linz.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=FFCC00&color2=000000&q=65&w=100" tvg-start="2026-09-08T16:45:00.000Z" tvg-stop="2026-09-08T18:45:00.000Z" group-title="Football",AEK Athens vs LASK Linz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/laliga-1.html
+https://xyzstreams.st/ucl-2.html
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=0066CC&q=65&w=100" tvg-start="2026-09-07T19:30:00.000Z" tvg-stop="2026-09-07T21:30:00.000Z" group-title="Football",Elche vs Real Sociedad
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/belgium/logos/club-brugge.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=003399&color2=670E36&q=65&w=100" tvg-start="2026-09-08T16:45:00.000Z" tvg-stop="2026-09-08T18:45:00.000Z" group-title="Football",Club Brugge vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/laliga-1.html
+https://xyzstreams.st/ucl-1.html
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lille.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E03A3E&color2=00954C&q=65&w=100" tvg-start="2026-09-08T19:00:00.000Z" tvg-stop="2026-09-08T21:00:00.000Z" group-title="Football",Lille vs Real Betis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/ucl-3.html
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/porto.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004A99&color2=6CABDD&q=65&w=100" tvg-start="2026-09-08T19:00:00.000Z" tvg-stop="2026-09-08T21:00:00.000Z" group-title="Football",Porto vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/2/stream/sling/tudniplldishonly/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-dortmund.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/villarreal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=FDE100&color2=FFE100&q=65&w=100" tvg-start="2026-09-08T19:00:00.000Z" tvg-stop="2026-09-08T21:00:00.000Z" group-title="Football",Borussia Dortmund vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/ucl-2.html
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=00529F&color2=000080&q=65&w=100" tvg-start="2026-09-08T19:00:00.000Z" tvg-stop="2026-09-08T21:00:00.000Z" group-title="Football",Real Madrid vs Internazionale
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/ucl-1.html
 
 #EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-07T19:00:00.000Z" tvg-stop="2026-09-08T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
