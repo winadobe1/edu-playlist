@@ -132,15 +132,3 @@ https://stream3.liveland.af/hls/tv/meraj/playlist.m3u8|User-Agent=Mozilla/5.0 (X
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream3.liveland.af/hls/tv/persiana-sports-3/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
-#EXTINF:-1 tvg-id="liveland-1" tvg-logo="https://cdn1.movieland.af/images/channel-logos/1760950993472-280683327.svg" group-title="SPORTS",beIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://liveland.af/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://liveland.af
-https://stream3.liveland.af/hls/tv/liveland-1/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
-
-#EXTINF:-1 tvg-id="liveland-2" tvg-logo="https://cdn1.movieland.af/images/channel-logos/1760950993504-17568997.svg" group-title="SPORTS",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://liveland.af/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://liveland.af
-https://stream3.liveland.af/hls/tv/liveland-2/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
-
