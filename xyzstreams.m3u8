@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-08T23:25:29.799Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-09T04:48:51.911Z
 # Channels: 90 | Homepage Events: 8 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -851,43 +851,85 @@ https://xyzstreams.blog/2/stream/sling/espnu/stream_0.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E32219&color2=003399&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Stuttgart vs Viking
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E32219&color2=003399&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Stuttgart vs Viking (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/ucl-viking/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/feyenoord.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=A50044&color2=CC0000&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Barcelona vs Feyenoord
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E32219&color2=003399&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Stuttgart vs Viking (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/ucl-viking/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/feyenoord.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=A50044&color2=CC0000&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Barcelona vs Feyenoord (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/tnt3/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/sporting-cp.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/galatasaray.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=008000&color2=A89968&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Sporting CP vs Galatasaray
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/feyenoord.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=A50044&color2=CC0000&q=65&w=100" tvg-start="2026-09-09T16:45:00.000Z" tvg-stop="2026-09-09T18:45:00.000Z" group-title="Football",Barcelona vs Feyenoord (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/tnt3/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/sporting-cp.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/galatasaray.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=008000&color2=A89968&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Sporting CP vs Galatasaray (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/ucl-sporting/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/slovakia/logos/slovan-bratislava.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004170&color2=002B49&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",PSG vs Slovan Bratislava
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/sporting-cp.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/galatasaray.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=008000&color2=A89968&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Sporting CP vs Galatasaray (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/ucl-sporting/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/slovakia/logos/slovan-bratislava.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004170&color2=002B49&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",PSG vs Slovan Bratislava (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/1/tnt3/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/slovakia/logos/slovan-bratislava.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004170&color2=002B49&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",PSG vs Slovan Bratislava (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/tnt3/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=1A98FF&color2=EF0107&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Napoli vs Arsenal (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/tnt2/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=1A98FF&color2=EF0107&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Napoli vs Arsenal
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=1A98FF&color2=EF0107&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Napoli vs Arsenal (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/tnt2/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=C8102E&color2=CB3524&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Liverpool vs Atlético Madrid (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/tnt1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-07T19:00:00.000Z" tvg-stop="2026-09-08T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=C8102E&color2=CB3524&q=65&w=100" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-09T21:00:00.000Z" group-title="Football",Liverpool vs Atlético Madrid (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/tnt1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-10T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/boone/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-07T19:00:00.000Z" tvg-stop="2026-09-08T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 2)
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-10T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
