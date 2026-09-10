@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-10T18:31:23.649Z
-# Channels: 90 | Homepage Events: 9 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-10T23:13:03.026Z
+# Channels: 90 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -851,119 +851,119 @@ https://xyzstreams.blog/2/stream/sling/espnu/stream_0.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/rizintv2/assets/e13b2f34-2ba7-42ea-ac74-99e5ce6fb7e8.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" tvg-start="2026-09-10T08:00:00.000Z" tvg-stop="2026-09-10T12:00:00.000Z" group-title="Events",SUPER RIZIN.5 (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/50.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png&color1=FF6600&color2=005030&q=65&w=100" tvg-start="2026-09-11T00:00:00.000Z" tvg-stop="2026-09-11T03:00:00.000Z" group-title="American Football",Florida A&M vs Miami (FL) (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/rizin/mono.ts.m3u8
+https://xyzstreams.blog/1/espn/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/rizintv2/assets/e13b2f34-2ba7-42ea-ac74-99e5ce6fb7e8.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" tvg-start="2026-09-10T08:00:00.000Z" tvg-stop="2026-09-10T12:00:00.000Z" group-title="Events",SUPER RIZIN.5 (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/50.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png&color1=FF6600&color2=005030&q=65&w=100" tvg-start="2026-09-11T00:00:00.000Z" tvg-stop="2026-09-11T03:00:00.000Z" group-title="American Football",Florida A&M vs Miami (FL) (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/rizin/mono.ts.m3u8
+https://fishing342.b-cdn.net/1/espn/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/psv.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/ukraine/logos/shakhtar-donetsk.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=ED1C24&color2=FF6600&q=65&w=100" tvg-start="2026-09-10T16:45:00.000Z" tvg-stop="2026-09-10T18:45:00.000Z" group-title="Football",PSV vs Shakhtar Donetsk (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/tnt3/mono.ts.m3u8
+https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/psv.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/ukraine/logos/shakhtar-donetsk.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=ED1C24&color2=FF6600&q=65&w=100" tvg-start="2026-09-10T16:45:00.000Z" tvg-stop="2026-09-10T18:45:00.000Z" group-title="Football",PSV vs Shakhtar Donetsk (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/tnt3/mono.ts.m3u8
+https://dlhd.net/NBCSN/N0002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/fenerbahce.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=8E1F27&q=65&w=100" tvg-start="2026-09-10T16:45:00.000Z" tvg-stop="2026-09-10T18:45:00.000Z" group-title="Football",Fenerbahçe vs Roma (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/tnt2/mono.ts.m3u8
+https://dlhd.net/NBCSNOU3/N0004/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/fenerbahce.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=8E1F27&q=65&w=100" tvg-start="2026-09-10T16:45:00.000Z" tvg-stop="2026-09-10T18:45:00.000Z" group-title="Football",Fenerbahçe vs Roma (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/tnt2/mono.ts.m3u8
+https://dlhd.net/NBCSNOU4/N0005/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/czech-republic/logos/slavia-praha.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E30613&color2=FFCC00&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Slavia Praha vs Lens (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/ucl-lens/mono.ts.m3u8
+https://dlhd.net/NBCSNOU6/N0007/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/czech-republic/logos/slavia-praha.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E30613&color2=FFCC00&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Slavia Praha vs Lens (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/ucl-lens/mono.ts.m3u8
+https://dlhd.net/BTN/F2029/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Manchester United vs Sabah (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/tnt1/mono.ts.m3u8
+https://dlhd.net/BTN2/F1102/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Manchester United vs Sabah (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/tnt1/mono.ts.m3u8
+https://dlhd.net/WDCWDT/M1395/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Manchester United vs Sabah (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/tnt4k/mono.ts.m3u8
+https://dlhd.net/CBSSN/C0037/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Manchester United vs Sabah (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/tnt4k/mono.ts.m3u8
+https://dlhd.net/WPGH/F3171/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=DD0000&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Como vs RB Leipzig (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/mls-nyc/mono.ts.m3u8
+https://dlhd.net/FS1/F1021/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=DD0000&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Como vs RB Leipzig (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/mls-nyc/mono.ts.m3u8
+https://dlhd.net/WESH/N1040/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Bayern München vs Bodø / Glimt (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/mls-2/mono.ts.m3u8
+https://dlhd.net/KNBC/N1005/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Bayern München vs Bodø / Glimt (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/mls-2/mono.ts.m3u8
+https://dlhd.net/WCBS/F0001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Bayern München vs Bodø / Glimt (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/mls-2es/mono.ts.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Bayern München vs Bodø / Glimt (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/mls-2es/mono.ts.m3u8
+https://xyzstreams.blog/1/nfl/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" tvg-start="2026-09-10T19:00:00.000Z" tvg-stop="2026-09-10T21:00:00.000Z" group-title="Football",Bayern München vs Bodø / Glimt (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" tvg-start="2026-09-11T00:35:00.000Z" tvg-stop="2026-09-11T03:35:00.000Z" group-title="American Football",San Francisco vs Los Angeles (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/tudniplldishonly/stream_0.m3u8
+https://fishing342.b-cdn.net/1/nfl/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" tvg-start="2026-09-09T19:00:00.000Z" tvg-stop="2026-09-10T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36

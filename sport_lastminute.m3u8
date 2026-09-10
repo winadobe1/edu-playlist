@@ -12,6 +12,12 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=11186198f6f88d8e156bfbbb1367d303:6a8a911da895097c2952a25e34562af9
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1789119969_s~204082a2-c984-41d3-a546-5752ac1eb42e_u~8667264aa0002ce6cd68f666e7e13810d7ed4de0899695bbff26836e0d5f25f855720036e56c24e297c52c53667a8393_l~70_x~63082b8a2dd7243240b4813f72f448da22392ccb075d84222dacf7d8977babcc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(BmyKaByQ78fi0eWcrCJDkr5U)/master_2hr-all.mpd
 
+#EXTINF:-1 tvg-id="2100bayernvsbodglimtitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 BAYERN vs BODØ GLIMT (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188644af04152a2e929643fb834db5:15bb8e12aa085ef9de362a60b92d4548
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1789120075_s~31a32a98-840c-4cbf-bc50-8fb4f7b18efa_u~8667264aa0002ce6cd68f666e7e13810d7ed4de0899695bbff26836e0d5f25f855720036e56c24e297c52c53667a8393_l~70_x~ec2606f5554ed0fdc65834da466be8fa71f84a3eeca0c5ddf6868881b13f8cd2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(odRZQ1ptJcOEPpYwfzxdmnM7)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="2100comovsrbleipzigitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 COMO vs RB LEIPZIG (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
