@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-11T08:07:33.883Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-11T13:37:39.310Z
 # Channels: 90 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -851,17 +851,29 @@ https://xyzstreams.blog/2/stream/sling/espnu/stream_0.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T23:00:00.000Z" tvg-stop="2026-09-12T04:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 1)
+#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T11:30:00.000Z" tvg-stop="2026-09-11T14:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/one/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T23:00:00.000Z" tvg-stop="2026-09-12T04:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 2)
+#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T11:30:00.000Z" tvg-stop="2026-09-11T14:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://fishing342.b-cdn.net/1/one/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T11:30:00.000Z" tvg-stop="2026-09-11T14:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/1/oneb/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" tvg-start="2026-09-11T11:30:00.000Z" tvg-stop="2026-09-11T14:00:00.000Z" group-title="Events",One FC Inner Circle 30 (Link 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/oneb/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/mhg13lyyob7vln2v9k6i8y8kfwie" tvg-start="2026-09-11T17:00:00.000Z" tvg-stop="2026-09-11T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
