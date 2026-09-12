@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-12T12:53:43.247Z
-# Channels: 90 | Homepage Events: 10 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-12T15:36:24.413Z
+# Channels: 90 | Homepage Events: 12 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -1035,39 +1035,33 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/2/stream/sling/usa/stream_0.m3u8
+https://xyzstreams.blog/1/usa/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/usa/mono.ts.m3u8
+https://fishing342.b-cdn.net/1/usa/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/usa/mono.ts.m3u8
+https://xyzstreams.blog/1/UNIVERSO/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/UNIVERSO/mono.ts.m3u8
+https://fishing342.b-cdn.net/1/UNIVERSO/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/UNIVERSO/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/1/skynzepl/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" tvg-start="2026-09-12T14:00:00.000Z" tvg-stop="2026-09-12T16:00:00.000Z" group-title="Football",Chelsea vs Hull City (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -1355,14 +1349,32 @@ https://xyzstreams.blog/1/telemundo/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://fishing342.b-cdn.net/1/telemundo/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/mhg13lyyob7vln2v9k6i8y8kfwie" tvg-start="2026-09-11T17:00:00.000Z" tvg-stop="2026-09-11T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0osme4RyrqwMzU-s8lWo0AdzEYYgYL8f258iIE5aTtFQzH10L5ezTroY&s=10" tvg-start="2026-09-12T17:00:00.000Z" tvg-stop="2026-09-13T02:30:00.000Z" group-title="Fighting",Misfits McCann vs. Big Stacks (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/boone/mono.ts.m3u8
+https://xyzstreams.blog/1/misfits/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/mhg13lyyob7vln2v9k6i8y8kfwie" tvg-start="2026-09-11T17:00:00.000Z" tvg-stop="2026-09-11T02:30:00.000Z" group-title="IMCA Super Nationals",Boone Speedway (Link 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0osme4RyrqwMzU-s8lWo0AdzEYYgYL8f258iIE5aTtFQzH10L5ezTroY&s=10" tvg-start="2026-09-12T17:00:00.000Z" tvg-stop="2026-09-13T02:30:00.000Z" group-title="Fighting",Misfits McCann vs. Big Stacks (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/boone/mono.ts.m3u8
+https://fishing342.b-cdn.net/1/misfits/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" tvg-start="2026-09-12T21:00:00.000Z" tvg-stop="2026-09-13T02:30:00.000Z" group-title="Fighting",Garcia vs Benn (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/1/bennpara/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" tvg-start="2026-09-12T21:00:00.000Z" tvg-stop="2026-09-13T02:30:00.000Z" group-title="Fighting",Garcia vs Benn (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/bennpara/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" tvg-start="2026-09-12T21:00:00.000Z" tvg-stop="2026-09-13T02:30:00.000Z" group-title="Fighting",Garcia vs Benn (Link 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fishing342.b-cdn.net/1/benndazn/mono.ts.m3u8
