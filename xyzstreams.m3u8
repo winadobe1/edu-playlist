@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-13T13:49:12.553Z
-# Channels: 90 | Homepage Events: 21 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-13T16:23:51.872Z
+# Channels: 90 | Homepage Events: 19 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -329,72 +329,6 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/skymain/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/skymain/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/skymainuhd/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/usa/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/usa/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/skynzepl/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/skynzepl/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/telemundo/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/telemundo/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/beinar22/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=00BFFF&color2=0057B8&q=65&w=100" tvg-start="2026-09-13T13:00:00.000Z" tvg-stop="2026-09-13T15:00:00.000Z" group-title="Football",Coventry City vs Brighton & Hove Albion (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/beinar22/mono.ts.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=6CABDD&q=65&w=100" tvg-start="2026-09-13T15:30:00.000Z" tvg-stop="2026-09-13T17:30:00.000Z" group-title="Football",Manchester United vs Manchester City (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
@@ -567,7 +501,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://conwaycorp.com/wp-content/uploads/2025/09/9-4-Blog-NFL_Redzone-scaled.jpg" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",NFL Redzone (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -609,9 +543,15 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nflrdz/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://conwaycorp.com/wp-content/uploads/2025/09/9-4-Blog-NFL_Redzone-scaled.jpg" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",NFL Redzone (Link 26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/1/nflrdz/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://conwaycorp.com/wp-content/uploads/2025/09/9-4-Blog-NFL_Redzone-scaled.jpg" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",NFL Redzone (Link 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -723,7 +663,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/cin.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D50A0A&color2=FB4F14&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Tampa Bay vs Cincinnati (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -765,13 +705,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl8/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/cin.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D50A0A&color2=FB4F14&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Tampa Bay vs Cincinnati (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl8/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D3BC8D&color2=0076B6&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New Orleans vs Detroit (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -879,7 +819,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D3BC8D&color2=0076B6&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New Orleans vs Detroit (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -921,169 +861,169 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl7/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D3BC8D&color2=0076B6&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New Orleans vs Detroit (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl7/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSN/N0002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU3/N0004/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU4/N0005/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU6/N0007/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 6)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/BTN/F2029/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/BTN2/F1102/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 8)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WDCWDT/M1395/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 9)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/CBSSN/C0037/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 10)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WPGH/F3171/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 11)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/FS1/F1021/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 12)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WESH/N1040/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 13)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KNBC/N1005/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 14)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WCBS/F0001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 15)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 16)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WJBK/F3076/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 17)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KDKA/F0023/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 18)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 19)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/REDZONE/F8001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 20)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WFLD/F3059/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 21)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WBNS/F0061/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 22)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KCBS/F0002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 23)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KFVEDT/M0035/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 24)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KLSR/F3082/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 25)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl3/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 26)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=0C2340&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",New York vs Tennessee (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl3/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=241773&color2=002C5F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Baltimore vs Indianapolis (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1191,7 +1131,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=241773&color2=002C5F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Baltimore vs Indianapolis (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1233,13 +1173,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl2/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=241773&color2=002C5F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Baltimore vs Indianapolis (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl2/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=FFB612&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Atlanta vs Pittsburgh (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1347,7 +1287,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=FFB612&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Atlanta vs Pittsburgh (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1389,13 +1329,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl5/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=FFB612&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Atlanta vs Pittsburgh (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl5/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B162A&color2=0085CA&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Chicago vs Carolina (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1503,7 +1443,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B162A&color2=0085CA&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Chicago vs Carolina (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1545,13 +1485,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl6/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B162A&color2=0085CA&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Chicago vs Carolina (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl6/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=311D00&color2=006778&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Cleveland vs Jacksonville (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1659,7 +1599,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=311D00&color2=006778&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Cleveland vs Jacksonville (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1701,13 +1641,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl4/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=311D00&color2=006778&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Cleveland vs Jacksonville (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl4/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=00338D&color2=03202F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Buffalo vs Houston (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1815,7 +1755,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=00338D&color2=03202F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Buffalo vs Houston (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1857,13 +1797,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl1/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=00338D&color2=03202F&q=65&w=100" tvg-start="2026-09-13T17:00:00.000Z" tvg-stop="2026-09-13T20:00:00.000Z" group-title="American Football",Buffalo vs Houston (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl1/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=000000&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Miami vs Las Vegas (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1971,7 +1911,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=000000&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Miami vs Las Vegas (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2013,13 +1953,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl10/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=000000&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Miami vs Las Vegas (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl10/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=203731&color2=4F2683&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Green Bay vs Minnesota (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2127,7 +2067,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=203731&color2=4F2683&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Green Bay vs Minnesota (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2169,13 +2109,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl9/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=203731&color2=4F2683&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Green Bay vs Minnesota (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl9/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=5A1414&color2=004C54&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Washington vs Philadelphia (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2283,7 +2223,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=5A1414&color2=004C54&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Washington vs Philadelphia (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2325,13 +2265,13 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl11/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=5A1414&color2=004C54&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Washington vs Philadelphia (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl11/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=0080C6&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Arizona vs Los Angeles (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2439,7 +2379,7 @@ https://dlhd.net/KDKA/F0023/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=0080C6&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Arizona vs Los Angeles (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -2481,169 +2421,169 @@ https://dlhd.net/KLSR/F3082/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl12/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=0080C6&q=65&w=100" tvg-start="2026-09-13T20:25:00.000Z" tvg-stop="2026-09-13T23:25:00.000Z" group-title="American Football",Arizona vs Los Angeles (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl12/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSN/N0002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU3/N0004/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU4/N0005/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/NBCSNOU6/N0007/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 6)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/BTN/F2029/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/BTN2/F1102/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 8)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WDCWDT/M1395/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 9)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/CBSSN/C0037/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 10)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WPGH/F3171/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 11)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/FS1/F1021/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 12)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WESH/N1040/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 13)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KNBC/N1005/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 14)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WCBS/F0001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 15)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 16)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WJBK/F3076/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 17)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KDKA/F0023/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 18)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://dlhd.net/WXIX/F3061/master.m3u8
+https://dlhd.net/WXIX/F3061/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 19)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/REDZONE/F8001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 20)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WFLD/F3059/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 21)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/WBNS/F0061/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 22)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KCBS/F0002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 23)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KFVEDT/M0035/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 24)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://dlhd.net/KLSR/F3082/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 25)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/nfl1/mono.ts.m3u8
+https://dlhd.net/KVVU/F3129/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=125740&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 26)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=0B2265&q=65&w=100" tvg-start="2026-09-14T00:20:00.000Z" tvg-stop="2026-09-14T03:20:00.000Z" group-title="American Football",Dallas vs New York (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/nfl1/mono.ts.m3u8
+https://xyzstreams.blog/3/server/play/KG7RZ5x9HbsJJ7pO/rendition.m3u8?track=video-5&anvsid=m177618689-nc67bb061792d5423433445c155f558e9&ts=1789311642
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" tvg-start="2026-09-13T18:00:00.000Z" tvg-stop="2026-09-13T21:00:00.000Z" group-title="US Open",Alexander Zverev vs Ben Shelton (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
