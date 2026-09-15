@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-14T21:52:26.416Z
-# Channels: 87 | Homepage Events: 1 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-15T04:59:42.504Z
+# Channels: 88 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -310,6 +310,12 @@ https://xyzstreams.blog/3/177.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/3/5520.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="XYZ Channels",Cleo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/4/CLEOHD/M1217/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="XYZ Channels",MeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -833,212 +839,110 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/peterborough-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/barnsley.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=CC0000&q=65&w=100" tvg-start="2026-09-15T18:30:00.000Z" tvg-stop="2026-09-15T20:30:00.000Z" group-title="Football",Peterborough United vs Barnsley (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/1/espn/mono.ts.m3u8
+https://xyzstreams.blog/1/barnsley/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/peterborough-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/barnsley.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=CC0000&q=65&w=100" tvg-start="2026-09-15T18:30:00.000Z" tvg-stop="2026-09-15T20:30:00.000Z" group-title="Football",Peterborough United vs Barnsley (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fishing342.b-cdn.net/1/espn/mono.ts.m3u8
+https://fishing342.b-cdn.net/1/barnsley/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/west-ham-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=7A263A&color2=CC0000&q=65&w=100" tvg-start="2026-09-15T18:45:00.000Z" tvg-stop="2026-09-15T20:45:00.000Z" group-title="Football",West Ham United vs Fulham (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
+https://xyzstreams.blog/1/fulham/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/west-ham-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=7A263A&color2=CC0000&q=65&w=100" tvg-start="2026-09-15T18:45:00.000Z" tvg-stop="2026-09-15T20:45:00.000Z" group-title="Football",West Ham United vs Fulham (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
+https://fishing342.b-cdn.net/1/fulham/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=EF0107&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Ipswich Town vs Arsenal (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
+https://xyzstreams.blog/1/arsenal/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 6)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=EF0107&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Ipswich Town vs Arsenal (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
+https://fishing342.b-cdn.net/1/arsenal/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/reading.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0044CC&color2=E30613&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Reading vs Brentford (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
+https://xyzstreams.blog/1/bentford/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 8)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/reading.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0044CC&color2=E30613&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Reading vs Brentford (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
+https://fishing342.b-cdn.net/1/bentford/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 9)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=C8102E&color2=132257&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Liverpool vs Tottenham Hotspur (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
+https://xyzstreams.blog/1/tottenham/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 10)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=C8102E&color2=132257&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Liverpool vs Tottenham Hotspur (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
+https://fishing342.b-cdn.net/1/tottenham/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 11)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=C8102E&color2=132257&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Liverpool vs Tottenham Hotspur (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
+https://xyzstreams.blog/3/5975.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 12)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=C8102E&color2=132257&q=65&w=100" tvg-start="2026-09-15T19:00:00.000Z" tvg-stop="2026-09-15T21:00:00.000Z" group-title="Football",Liverpool vs Tottenham Hotspur (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
+https://fishing342.b-cdn.net/3/5975.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 13)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
+https://xyzstreams.blog/3/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 14)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
+https://fishing342.b-cdn.net/3/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 15)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
+https://xyzstreams.blog/3/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 16)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
+https://fishing342.b-cdn.net/3/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 17)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
+https://xyzstreams.blog/3/4550.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 18)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" tvg-start="2026-09-15T19:30:00.000Z" tvg-stop="2026-09-15T21:30:00.000Z" group-title="Football",Elche vs Real Madrid (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" tvg-start="2026-09-15T00:15:00.000Z" tvg-stop="2026-09-15T03:15:00.000Z" group-title="American Football",Denver vs Kansas City (Link 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
+https://fishing342.b-cdn.net/3/4550.m3u8
