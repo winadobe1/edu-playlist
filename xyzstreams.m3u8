@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-16T18:55:34.662Z
-# Channels: 88 | Homepage Events: 0 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-16T23:40:11.817Z
+# Channels: 88 | Homepage Events: 1 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -835,3 +835,7 @@ https://xyzstreams.blog/3/streamid=espn&proid=sling.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
+
+#-----------------------------------------
+# LIVE EVENTS (Homepage)
+#-----------------------------------------
