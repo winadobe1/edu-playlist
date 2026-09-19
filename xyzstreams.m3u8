@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-19T13:12:17.279Z
-# Channels: 88 | Homepage Events: 4 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-19T18:04:16.880Z
+# Channels: 88 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -839,7 +839,7 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=034694&q=65&w=100" tvg-start="2026-09-18T19:00:00.000Z" tvg-stop="2026-09-18T21:00:00.000Z" group-title="Football",Brentford vs Chelsea
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=00BFFF&q=65&w=100" tvg-start="2026-09-19T16:30:00.000Z" tvg-stop="2026-09-19T18:30:00.000Z" group-title="Football",Nottingham Forest vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
