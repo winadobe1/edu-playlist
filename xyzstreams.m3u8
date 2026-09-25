@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-24T23:53:49.152Z
-# Channels: 88 | Homepage Events: 20 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-25T05:03:15.886Z
+# Channels: 88 | Homepage Events: 8 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://ftv.xyzstreams.blog/FSCPL/F1026/master.m3u8
+https://xyzstreams.blog/3/streamid=cbs&proid=sling.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/resize/8a2d3ef18c67ea9ab8e6704e47094c64106e0106/catalog/provider/8/4/8-9200000057_light.png?fit=crop&height=64&width=64" group-title="XYZ Channels",ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
