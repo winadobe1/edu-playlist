@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-28T19:42:37.104Z
-# Channels: 88 | Homepage Events: 9 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-28T21:15:37.684Z
+# Channels: 88 | Homepage Events: 1 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -650,205 +650,205 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cardinals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/falcons.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/ravens.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bills.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/panthers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 6)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bears.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bengals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 8)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/browns.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 9)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cowboys.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 10)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/broncos.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 11)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/lions.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 12)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/packers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 13)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/texans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 14)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/colts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 15)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jaguars.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 16)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chiefs.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 17)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/raiders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 18)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chargers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 19)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/rams.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 20)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/dolphins.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 21)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/vikings.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 22)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/patriots.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 23)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/saints.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 24)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/giants.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 25)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jets.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 26)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/eagles.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 27)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/steelers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 28)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/49ers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 29)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/seahawks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 30)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/buccaneers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 31)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/titans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 32)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/commanders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 33)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/redzone.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=FB4F14&q=65&w=100" tvg-start="2026-09-28T00:20:00.000Z" tvg-stop="2026-09-28T03:20:00.000Z" group-title="Football",Los Angeles Rams vs Denver Broncos (Link 34)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" tvg-start="2026-09-29T00:15:00.000Z" tvg-stop="2026-09-29T03:15:00.000Z" group-title="Football",Philadelphia Eagles vs Chicago Bears (Link 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
