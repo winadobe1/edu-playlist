@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-29T20:01:31.259Z
-# Channels: 88 | Homepage Events: 14 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-09-30T00:31:58.516Z
+# Channels: 89 | Homepage Events: 8 | Dynamic Feeds: None | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -30,6 +30,12 @@ https://dlhd.net/WPIXDT/M1388/master.m3u8
 https://xyzstreams.blog/3/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/resize/630e91af9522ad53b2cbdf93445373fb77375f90/catalog/provider/8/4/8-9233003497_light.png?fit=crop&height=64&width=64" group-title="XYZ Channels",FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/328.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5x1pcE-Ad2jE2Yt06_OgTbZWvOSF2lg1wLW3aFqV9ww&s" group-title="XYZ Channels",FOX News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
