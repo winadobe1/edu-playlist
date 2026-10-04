@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-04T09:52:53.105Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-04T16:52:23.985Z
 # Channels: 89 | Homepage Events: 33 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
@@ -660,205 +660,205 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 1)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cardinals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 2)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/falcons.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 3)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/ravens.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 4)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bills.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 5)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/panthers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 6)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bears.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 7)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bengals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 8)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/browns.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 9)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cowboys.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 10)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/broncos.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 11)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/lions.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 12)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/packers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 13)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/texans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 14)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/colts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 15)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jaguars.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 16)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chiefs.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 17)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/raiders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 18)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chargers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 19)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/rams.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 20)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/dolphins.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 21)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/vikings.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 22)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/patriots.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 23)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/saints.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 24)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/giants.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 25)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jets.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 26)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/eagles.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 27)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/steelers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 28)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/49ers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 29)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/seahawks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 30)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/buccaneers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 31)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/titans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 32)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/commanders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 33)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/redzone.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" tvg-start="2026-10-04T13:30:00.000Z" tvg-stop="2026-10-04T16:30:00.000Z" group-title="American Football",Indianapolis Colts vs Washington Commanders (Link 34)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
