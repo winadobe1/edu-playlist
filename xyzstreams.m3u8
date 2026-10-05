@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-05T10:33:48.830Z
-# Channels: 89 | Homepage Events: 17 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-05T22:03:13.782Z
+# Channels: 89 | Homepage Events: 12 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -660,1237 +660,217 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 1)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cardinals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 2)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/falcons.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 3)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/ravens.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 4)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bills.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 5)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/panthers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 6)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bears.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 7)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/bengals.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 8)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/browns.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 9)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/cowboys.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 10)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/broncos.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 11)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/lions.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 12)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/packers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 13)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/texans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 14)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/colts.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 15)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jaguars.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 16)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chiefs.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 17)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/raiders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 18)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/chargers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 19)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/rams.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 20)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/dolphins.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 21)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/vikings.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 22)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/patriots.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 23)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/saints.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 24)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/giants.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 25)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/jets.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 26)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/eagles.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 27)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/steelers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 28)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/49ers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 29)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/seahawks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 30)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/buccaneers.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 31)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/titans.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 32)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/commanders.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 33)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/6/redzone.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/a44d83ec01015e90b3772d96d88e629b/images/gracenote/assets/p7952814_b_h8_af.jpg/magic/fit-in/0x720/filters:format(webp)" tvg-start="2026-10-04T17:00:00.000Z" tvg-stop="2026-10-04T23:30:00.000Z" group-title="American Football",NFL RedZone (Link 34)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=D3BC8D&q=65&w=100" tvg-start="2026-10-06T00:15:00.000Z" tvg-stop="2026-10-06T03:15:00.000Z" group-title="Football",Atlanta Falcons vs New Orleans Saints (Link 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=008E97&color2=4F2683&q=65&w=100" tvg-start="2026-10-04T20:05:00.000Z" tvg-stop="2026-10-04T23:05:00.000Z" group-title="American Football",Miami Dolphins vs Minnesota Vikings (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=E31837&color2=000000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Kansas City Chiefs vs Las Vegas Raiders (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=AA0000&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Denver Broncos vs San Francisco 49ers (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0080C6&color2=002244&q=65&w=100" tvg-start="2026-10-04T20:25:00.000Z" tvg-stop="2026-10-04T23:25:00.000Z" group-title="American Football",Los Angeles Chargers vs Seattle Seahawks (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cardinals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/falcons.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/ravens.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bills.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/panthers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bears.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/bengals.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/browns.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/cowboys.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/broncos.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/lions.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/packers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/texans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/colts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jaguars.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chiefs.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/raiders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/chargers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/rams.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/dolphins.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/vikings.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/patriots.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/saints.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/giants.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/jets.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/eagles.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/steelers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/49ers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/seahawks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/buccaneers.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/titans.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/commanders.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/6/redzone.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" tvg-start="2026-10-05T00:20:00.000Z" tvg-stop="2026-10-05T03:20:00.000Z" group-title="American Football",Detroit Lions vs Carolina Panthers (Link 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://gta63.b-cdn.net/server/play/wpjN3vLqfqsOM7BK/rendition.m3u8?track=video-5&anvsid=m177610504-n86e937ddda220c30c3547614a36dff33&ts=1789431618
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo3=https://content.sportslogos.net/logos/53/1478/full/-alds-logo-primary-2026-147852712026.png&color1=27251F&color2=002B49&q=65&w=100" tvg-start="2026-10-05T21:00:00.000Z" tvg-stop="2026-10-05T00:00:00.000Z" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo3=https://content.sportslogos.net/logos/53/1478/full/-alds-logo-primary-2026-147852712026.png&color1=27251F&color2=002B49&q=65&w=100" tvg-start="2026-10-05T21:00:00.000Z" tvg-stop="2026-10-07T00:00:00.000Z" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://app004.sitetheory.io/https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo3=https://content.sportslogos.net/logos/53/1478/full/-alds-logo-primary-2026-147852712026.png&color1=0C2340&color2=8FBCE6&q=65&w=100" tvg-start="2026-10-05T00:00:00.000Z" tvg-stop="2026-10-04T04:00:00.000Z" group-title="Baseball",New York Yankees vs Tampa Bay Rays
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo3=https://content.sportslogos.net/logos/53/1478/full/-alds-logo-primary-2026-147852712026.png&color1=0C2340&color2=8FBCE6&q=65&w=100" tvg-start="2026-10-06T00:00:00.000Z" tvg-stop="2026-10-06T04:00:00.000Z" group-title="Baseball",New York Yankees vs Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
