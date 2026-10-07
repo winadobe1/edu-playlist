@@ -90,11 +90,11 @@ https://stream1.liveland.af/hls/tv/faza/playlist.m3u8|User-Agent=Mozilla/5.0 (X1
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream1.liveland.af/hls/tv/amu/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
-#EXTINF:-1 tvg-id="meraj" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1769234333004-354961839.svg" group-title="GENERAL",Meraj
+#EXTINF:-1 tvg-id="esteqlal" tvg-logo="https://cdn1.movieland.af/images/channel/1791374087902-184103323.svg" group-title="GENERAL",Esteqlal
 #EXTVLCOPT:http-referrer=https://liveland.af/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://liveland.af
-https://stream1.liveland.af/hls/tv/meraj/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
+https://stream1.liveland.af/hls/tv/esteqlal/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
 #EXTINF:-1 tvg-id="rta" tvg-logo="https://cdn1.movieland.af/images/channel-logos/1760950993587-207743717.svg" group-title="GENERAL",RTA
 #EXTVLCOPT:http-referrer=https://liveland.af/
@@ -131,4 +131,10 @@ https://stream1.liveland.af/hls/tv/footbal/playlist.m3u8|User-Agent=Mozilla/5.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream1.liveland.af/hls/tv/varzesh-tajikistan/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
+
+#EXTINF:-1 tvg-id="meraj" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1769234333004-354961839.svg" group-title="GENERAL",Meraj
+#EXTVLCOPT:http-referrer=https://liveland.af/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://liveland.af
+https://stream1.liveland.af/hls/tv/meraj/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
