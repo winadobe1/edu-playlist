@@ -6,13 +6,13 @@
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream1.liveland.af/hls/tv/persiana-sports/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
-#EXTINF:-1 tvg-id="persiana-sports-2" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1772531192564-564386066.svg" group-title="SPORTS",Persiana Sports 2
+#EXTINF:-1 tvg-id="persiana-sports-2" tvg-logo="https://cdn1.movieland.af/images/channel/1791445309665-413925877.svg" group-title="SPORTS",Persiana Sports 2
 #EXTVLCOPT:http-referrer=https://liveland.af/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream1.liveland.af/hls/tv/persiana-sports-2/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
-#EXTINF:-1 tvg-id="persiana-sports-3" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1772599356292-162790183.svg" group-title="SPORTS",Persiana Sports 3
+#EXTINF:-1 tvg-id="persiana-sports-3" tvg-logo="https://cdn1.movieland.af/images/channel/1791445337576-179599550.svg" group-title="SPORTS",Persiana Sports 3
 #EXTVLCOPT:http-referrer=https://liveland.af/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://liveland.af
@@ -90,7 +90,7 @@ https://stream1.liveland.af/hls/tv/faza/playlist.m3u8|User-Agent=Mozilla/5.0 (X1
 #EXTVLCOPT:http-origin=https://liveland.af
 https://stream1.liveland.af/hls/tv/amu/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=https://liveland.af/&Origin=https://liveland.af
 
-#EXTINF:-1 tvg-id="esteqlal" tvg-logo="https://cdn1.movieland.af/images/channel/1791374087902-184103323.svg" group-title="GENERAL",Esteqlal
+#EXTINF:-1 tvg-id="esteqlal" tvg-logo="https://cdn1.movieland.af/images/channel/1791443726526-451945970.svg" group-title="GENERAL",Esteqlal
 #EXTVLCOPT:http-referrer=https://liveland.af/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://liveland.af
