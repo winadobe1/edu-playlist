@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-08T10:41:01.609Z
-# Channels: 89 | Homepage Events: 12 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-08T18:53:14.151Z
+# Channels: 89 | Homepage Events: 0 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -147,7 +147,7 @@ https://xyzstreams.blog/3/41.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/42.m3u8
+https://xyzstreams.blog/3/38.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="XYZ Channels",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -564,17 +564,3 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 # ESPNPLUSHOME SCHEDULED STREAMS (Dynamic Feed)
 # Source: https://espn.fancy-shark151.workers.dev/
 #-----------------------------------------
-#-----------------------------------------
-# LIVE EVENTS (Homepage)
-#-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=00385D&color2=27251F&q=65&w=100" tvg-start="2026-10-07T20:00:00.000Z" tvg-stop="2026-10-07T23:00:00.000Z" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://app004.sitetheory.io/https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=092C5C&color2=0c2340&q=65&w=100" tvg-start="2026-10-08T00:00:00.000Z" tvg-stop="2026-10-08T03:00:00.000Z" group-title="Baseball",Tampa Bay Rays vs New York Yankees
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://app004.sitetheory.io/https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
