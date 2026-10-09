@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-08T20:42:43.453Z
-# Channels: 89 | Homepage Events: 12 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-09T01:15:09.587Z
+# Channels: 89 | Homepage Events: 19 | Dynamic Feeds: None | Discovered Sports: NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -560,10 +560,6 @@ https://xyzstreams.blog/3/streamid=espn&proid=sling.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 
-#-----------------------------------------
-# ESPNPLUSHOME SCHEDULED STREAMS (Dynamic Feed)
-# Source: https://espn.fancy-shark151.workers.dev/
-#-----------------------------------------
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
