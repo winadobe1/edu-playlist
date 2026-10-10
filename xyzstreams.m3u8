@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-10T00:56:07.475Z
-# Channels: 88 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-10T05:59:34.837Z
+# Channels: 88 | Homepage Events: 28 | Dynamic Feeds: None | Discovered Sports: NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -557,8 +557,3 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=00385D&color2=27251F&q=65&w=100" tvg-start="2026-10-11T00:00:00.000Z" tvg-stop="2026-10-11T03:00:00.000Z" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://app004.sitetheory.io/https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
