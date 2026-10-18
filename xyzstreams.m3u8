@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-18T13:20:56.877Z
-# Channels: 87 | Homepage Events: 19 | Dynamic Feeds: None | Discovered Sports: NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-18T18:09:52.764Z
+# Channels: 87 | Homepage Events: 20 | Dynamic Feeds: None | Discovered Sports: NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -551,7 +551,7 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=64&h=64&scale=crop&cquality=40&location=origin&color1=092C5C&color2=00385D&q=65&w=100" tvg-start="2026-10-18T21:00:00.000Z" tvg-stop="2026-10-19T04:00:00.000Z" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=64&h=64&scale=crop&cquality=40&location=origin&color1=092C5C&color2=00385D&q=65&w=100" tvg-start="2026-10-18T21:00:00.000Z" tvg-stop="2026-10-19T04:00:00.000Z" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
