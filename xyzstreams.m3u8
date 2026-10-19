@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-19T18:44:34.440Z
-# Channels: 87 | Homepage Events: 20 | Dynamic Feeds: None | Discovered Sports: NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-10-19T22:24:35.140Z
+# Channels: 92 | Homepage Events: 6 | Dynamic Feeds: None | Discovered Sports: NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -143,12 +143,6 @@ https://xyzstreams.blog/3/streamid=foxsports1&proid=sling.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/3/streamid=foxsports2&proid=sling.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="XYZ Channels",AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/streamid=amc1&proid=sling.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="XYZ Channels",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
@@ -161,11 +155,47 @@ https://xyzstreams.blog/3/streamid=animalplanetdish&proid=sling.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.blog/3/streamid=ae&proid=sling.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg" group-title="XYZ Channels",PBS Kids
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/FreeForm-Logo.png" group-title="XYZ Channels",Freeform
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/streamid=pbskids&proid=sling.m3u8
+https://xyzstreams.blog/3/streamid=freeform&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/0d835e0a4449c86e2e2fde74bf3a87dd8f500f4f.PNG" group-title="XYZ Channels",E!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=e&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/e4cab749ce22eafcc5fb5f45fd00d7c7.png" group-title="XYZ Channels",Hallmark Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=hallmarkchannel&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/feb1de274d160dd258d0c27ed1620fdf.png" group-title="XYZ Channels",Hallmark Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=hallmarkfamily&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/feb1de274d160dd258d0c27ed1620fdf.png" group-title="XYZ Channels",Hallmark Mystrey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=hallmarkmystry&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/806c22a671d683bb0c0248aaf9f37290.png" group-title="XYZ Channels",truTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=trutv&proid=sling.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="XYZ Channels",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.blog/3/streamid=amc1&proid=sling.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/dmfiXjgnqaVnSWfFAW6KgT.png" group-title="XYZ Channels",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -551,7 +581,7 @@ https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=64&h=64&scale=crop&cquality=40&location=origin&color1=092C5C&color2=00385D&q=65&w=100" tvg-start="2026-10-18T21:00:00.000Z" tvg-stop="2026-10-19T04:00:00.000Z" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=64&h=64&scale=crop&cquality=40&location=origin&color1=00385D&color2=092C5C&q=65&w=100" tvg-start="2026-10-20T00:00:00.000Z" tvg-stop="2026-10-20T03:00:00.000Z" group-title="Baseball",Cleveland Guardians vs Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
