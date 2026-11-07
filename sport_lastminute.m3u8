@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2100portovsnapoligermpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 PORTO vs NAPOLI  (GER - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a108d90ddae4235b8c9b61810a979f1c:3e2aaaf8c62fbe50a1dc650908f75bde
-https://swissolt1-0-dashenc-live.zahs.tv/HD_blue_sport_1_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCFGRCTINJUHFDDEQ2BII4TALJRHFDDMQJQIQYTAMZZIZATMNBGMRZG2PLFPBYGS4TBORUW63R2GE3TSNBUGE2DIMBTFRZXS4Z2OBWGC6LSMVQWI6JGNFXGS5DJMFWHEYLUMU6TEMBQGAYCM3LBPBZGC5DFHUZDAMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLFNYTHG2LHHUZDKXZRHBRDQMDBMVRTCYLGHAYDIYTFGI2TAMBZMUYGGYZSGY3TKOLFMQTHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGE4TOOBWHETHMPJQ
-
 #EXTINF:-1 tvg-id="ch06engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 06  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
