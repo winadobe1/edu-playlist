@@ -1,27 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-11-19T20:44:16.819Z
-# Channels: 0 | Homepage Events: 16 | Dynamic Feeds: None | Discovered Sports: NBA
-
-#-----------------------------------------
-# NBA STREAMS (Auto-Discovered)
-#-----------------------------------------
-#EXTINF:-1 group-title="NBA",NBA: HOU (ESPN2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/streamid=espn2&proid=sling.m3u8
-
-#EXTINF:-1 group-title="NBA",NBA: BOS (ESPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/streamid=espn&proid=sling.m3u8
-
-#EXTINF:-1 group-title="NBA",NBA: PHX (ESPNU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.blog/3/streamid=espnu&proid=sling.m3u8
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-11-19T22:41:19.763Z
+# Channels: 0 | Homepage Events: 16 | Dynamic Feeds: None | Discovered Sports: None
 
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
